@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "一二导航"
+title = "网址导航"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
@@ -11,8 +11,8 @@ copyright = "oulh"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网页导航,webstack,hugo"
-  description = "Webstack Hugo版主题"
+  keywords = "网址导航,webstack,hugo"
+  description = "Webstack Hugo版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
@@ -29,7 +29,7 @@ copyright = "oulh"
   # 站点对应的github仓库链接
   url = "https://github.com/oulh/nav/blob/main/data/webstack.yml"
   
-#桌面端右上角github按钮
+#桌面端右上角code按钮
 [params.github]
-  enable = true
+  enable = true #true显示 false隐藏
   url = "https://github.com/oulh/nav"

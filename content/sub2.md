@@ -1,10 +1,10 @@
 ---
 type: nav
-title: 
+title: 子页面二
 search: 
   enable: false
 edit:
-  enable: false
+  enable: true
   url: https://github.com/oulh/nav/blob/main/content/sub2.md
 
 data:
@@ -28,7 +28,6 @@ data:
       url: https://www.ui.cn/
       description: 图形交互与界面设计交流、作品展示、学习平台。
     - title: 站酷
-      logo: ../images/logos/zcool.png
       url: https://www.zcool.com.cn/
       description: 中国人气设计师互动平台
     - title: Pinterest
@@ -40,11 +39,10 @@ data:
       url: https://huaban.com/
       description: 收集灵感,保存有用的素材
     - title: Medium
-      logo: ../images/logos/medium.png
       url: https://medium.com/
       description: 高质量设计文章
     - title: 优设
-      logo: ../images/logos/uisdc.png
+      logo:  
       url: https://www.uisdc.com/
       description: 设计师交流学习平台
     - title: Producthunt
@@ -56,6 +54,169 @@ data:
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
+    
+
+- taxonomy: 社区咨询
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 雷锋网
+      logo: ../images/logos/leiphone.png
+      url: https://www.leiphone.com/
+      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: 36kr
+      logo: ../images/logos/36kr.png
+      url: https://36kr.com/
+      description: 创业资讯、科技新闻
+    - title: 数英网
+      logo: ../images/logos/digitaling.png
+      url: https://www.digitaling.com/
+      description: 数字媒体及职业招聘网站
+    - title: 猎云网
+      logo: ../images/logos/lieyunwang.png
+      url: https://www.lieyunwang.com/
+      description: 互联网创业项目推荐和创业创新资讯
+    - title: 人人都是产品经理
+      logo: ../images/logos/woshipm.png
+      url: http://www.woshipm.com/
+      description: 产品经理、产品爱好者学习交流平台
+    - title: 互联网早读课
+      logo: ../images/logos/zaodula.png
+      url: https://www.zaodula.com/
+      description: 互联网行业深度阅读与学习平台
+    - title: 产品壹佰 
+      logo: ../images/logos/chanpin100.png
+      url: http://www.chanpin100.com/
+      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
+    - title: PMCAFF
+      logo: ../images/logos/pmcaff.png
+      url: http://www.pmcaff.com/
+      description: 中国第一产品经理人气组织，专注于研究互联网产品
+    - title: 爱运营
+      logo: ../images/logos/iyunying.png
+      url: http://www.iyunying.org/
+      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
+    - title: 鸟哥笔记
+      logo: ../images/logos/niaogebiji.png
+      url: http://www.niaogebiji.com/
+      description: 移动互联网第一干货平台
+    - title: 古田路9号
+      logo: ../images/logos/gtn9.png
+      url: http://www.gtn9.com/
+      description: 国内专业品牌创意平台
+    - title: 优阁网
+      logo: ../images/logos/uigreat.png
+      url: http://www.uigreat.com/
+      description: UI设计师学习交流社区
+    
+
+- taxonomy: 灵感采集
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 发现产品
+      links:
+        - title: Producthunt
+          logo: ../images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+        - title: NEXT
+          logo: ../images/logos/NEXT.png
+          url: https://next.36kr.com/posts
+          description: 不错过任何一个新产品
+        - title: 少数派
+          logo: ../images/logos/sspai.png
+          url: https://sspai.com/
+          description: 高品质数字消费指南
+        - title: 利器
+          logo: ../images/logos/liqi.png
+          url: https://liqi.io/
+          description: 创造者和他们的工具
+        - title: Today
+          logo: ../images/logos/today.png
+          url: http://today.itjuzi.com/
+          description: 为身边的新产品喝彩
+        - title: 小众软件
+          logo: ../images/logos/appinn.png
+          url: https://faxian.appinn.com/
+          description: 在这里发现更多有趣的应用
+      
+    - term: 界面灵感
+      links:
+        - title: Pttrns
+          logo: ../images/logos/Pttrns.png
+          url: https://www.pttrns.com/
+          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
+        - title: Collect UI
+          logo: ../images/logos/CollectUI.png
+          url: http://collectui.com/
+          description: Daily inspiration collected from daily ui archive and beyond.
+        - title: UI uigreat
+          logo: ../images/logos/uiuigreat.png
+          url: http://ui.uigreat.com/
+          description: APP界面截图参考
+        - title: Android Niceties
+          logo: ../images/logos/AndroidNiceties.png
+          url: https://androidniceties.tumblr.com/
+          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+      
+    - term: 网页灵感
+      links:
+        - title: Awwwards
+          logo: ../images/logos/awwwards.png
+          url: https://www.awwwards.com/
+          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+        - title: CSS Design Awards
+          logo: ../images/logos/CSSDesignAwards.png
+          url: https://www.cssdesignawards.com/
+          description: Website Awards & Inspiration - CSS Gallery
+        - title: The FWA
+          logo: ../images/logos/fwa.png
+          url: https://thefwa.com/
+          description: FWA - showcasing innovation every day since 2000
+        - title: Ecommercefolio
+          logo: ../images/logos/Ecommercefolio.png
+          url: http://www.ecommercefolio.com/
+          description: Only the Best Ecommerce Design Inspiration
+        - title: Lapa
+          logo: ../images/logos/Lapa.png
+          url: http://www.lapa.ninja/
+          description: The best landing page design inspiration from around the web.
+        - title: Reeoo
+          logo: ../images/logos/reeoo.png
+          url: http://reeoo.com/
+          description: web design inspiration and website gallery
+        - title: Designmunk
+          logo: ../images/logos/designmunk.png
+          url: https://designmunk.com/
+          description: Best Homepage Design Inspiration
+        - title: Best Websites Gallery
+          logo: ../images/logos/BWG.png
+          url: https://bestwebsite.gallery/
+          description: Website Showcase Inspiration | Best Websites Gallery
+        - title: Pages
+          logo: ../images/logos/pages.png
+          url: http://www.pages.xyz/
+          description: Curated directory of the best Pages
+        - title: SiteSee
+          logo: ../images/logos/SiteSee.png
+          url: https://sitesee.co/
+          description: SiteSee is a curated gallery of beautiful, modern websites collections.
+        - title: Site Inspire
+          logo: ../images/logos/siteInspire.png
+          url: https://www.siteinspire.com/
+          description: A CSS gallery and showcase of the best web design inspiration.
+        - title: WebInspiration
+          logo: ../images/logos/WebInspiration.png
+          url: http://web.uedna.com/
+          description: 网页设计欣赏,全球顶级网页设计
+        - title: navnav
+          logo: ../images/logos/navnav.png
+          url: https://navnav.co/
+          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
+        - title: Really Good UX
+          logo: ../images/logos/ReallyGoodUX.png
+          url: https://www.reallygoodux.io/
+          description: A library of screenshots and examples of really good UX. Brought to you by
+
       
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -497,7 +658,7 @@ data:
       
 
 - taxonomy: 常用工具
-  icon: fa-diamond
+  icon: fa-palette
   list: 
     - term: 图形创意
       links:
@@ -700,38 +861,214 @@ data:
           logo: ../images/logos/mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
+
+- taxonomy: 学习教程
+  icon: fa-regular fa-folder-open
+  list: 
+    - term: 设计规范
+      links:
+        - title: Design Guidelines
+          url: http://designguidelines.co/
+          logo: ../images/logos/designguidelines.png
+          description: Design Guidelines &mdash; The way products are built.
+        - title: Awesome design systems
+          url: https://github.com/alexpate/awesome-design-systems
+          logo: ../images/logos/awesome_design_systems.png
+          description:  A collection of awesome design systems
+        - title: Material Design
+          url: https://material.io/guidelines/
+          logo: ../images/logos/Material_Design.png
+          description: Introduction - Material Design
+        - title: Human Interface Guidelines
+          url: https://developer.apple.com/ios/human-interface-guidelines
+          logo: ../images/logos/human_interface_guidelines.png
+          description: Human Interface Guidelines iOS
+        - title: Photoshop Etiquette
+          url: http://viggoz.com/photoshopetiquette/
+          logo: ../images/logos/photoshopetiquette.png
+          description: PS礼仪-WEB设计指南
+
+      
+    - term: 视频教程
+      links:
+        - title: Photoshop Lady
+          url: http://www.photoshoplady.com/
+          logo: ../images/logos/PhotoshopLady.png
+          description: Your Favourite Photoshop Tutorials in One Place
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: ../images/logos/doyoudo.png
+          description: 创意设计软件学习平台
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: ../images/logos/web_ui_tutorial.png
+          description: WEB UI免费视频公开课
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: ../images/logos/imooc.png
+          description: 程序员的梦工厂（有UI课程）
+        
+    - term: 设计文章
+      links:
+        - title: 优设网
+          url: http://www.uisdc.com/
+          logo: ../images/logos/uisdc.png
+          description: 设计师交流学习平台
+        - title: Web Design Ledger
+          url: https://webdesignledger.com
+          logo: ../images/logos/webdesignledger.png
+          description: Web Design Blog
+        - title: Medium
+          url: https://medium.com/
+          logo: ../images/logos/medium.png
+          description: Read, write and share stories that matter
+
+    - term: 设计电台
+      links:
+        - title: UX Coffee
+          url: http://uxcoffee.co/
+          logo: ../images/logos/uxcoffee.png
+          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
+        - title: Anyway.FM
+          url: https://anyway.fm/
+          logo: ../images/logos/anyway.png
+          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
+        - title: 异能电台
+          url: https://www.yineng.fm
+          logo: ../images/logos/yineng.png
+          description: 将全宇宙设计师的故事讲给你听。
+
+    - term: 交互设计
+      links:
+        - title: Little Big Details
+          url: http://littlebigdetails.com/
+          logo: ../images/logos/littlebigdetails.png
+          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
+        - title: Smashing Magazine
+          url: https://www.smashingmagazine.com/category/user-experience
+          logo: ../images/logos/smashingmagazine.png
+          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
+        - title: nngroup
+          url: https://www.nngroup.com/articles/
+          logo: ../images/logos/nngroup.png
+          description: Evidence-Based User Experience Research, Training, and Consulting
+        - title: Boxes and Arrows
+          url: http://boxesandarrows.com/
+          logo: ../images/logos/boxesandarrows.png
+          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
+        - title: UX Design Weekly
+          url: http://uxdesignweekly.com/
+          logo: ../images/logos/uxdesignweekly.png
+          description:  get a hand picked list of the best user experience design links every week. 
+        - title: UX Ren
+          url: http://uxren.cn/
+          logo: ../images/logos/uxren.png
+          description: 用户体验人的专业社区
+
+
+- taxonomy: UED团队
+  icon: fa-user-group
+  links: 
+    - title: Airbnb Design
+      url: https://airbnb.design
+      logo: ../images/logos/AirbnbDesign.png
+      description: Airbnb Design
+    - title: Facebook Design
+      url: http://facebook.design/
+      logo: ../images/logos/FacebookDesign.png
+      description: Facebook Design
+    - title: Google Design
+      url: https://design.google/
+      logo: ../images/logos/GoogleDesign.png
+      description: Google Design
+    - title: eico design
+      url: http://eicodesign.com/
+      logo: ../images/logos/eico.png
+      description: 数字化咨询与产品专家
+    - title: nice design
+      url: http://www.niceui.cn/
+      logo: ../images/logos/niceui.png
+      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
+    - title: 腾讯CDC
+      url: http://cdc.tencent.com/
+      logo: ../images/logos/cdc.png
+      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
+    - title: TGideas
+      url: http://tgideas.qq.com/
+      logo: ../images/logos/tgideas.png
+      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
+    - title: ISUX
+      url: https://isux.tencent.com/
+      logo: ../images/logos/isux.png
+      description: 腾讯社交用户体验设计部
+    - title: MXD
+      url: http://mxd.tencent.com/
+      logo: ../images/logos/mxd.png
+      description: 腾讯MIG无线互联网事业群设计团队
+    - title: Aliued
+      url: http://www.aliued.com/
+      logo: ../images/logos/aliued.png
+      description: 阿里巴巴国际UED团队
+    - title: U一点
+      url: http://www.aliued.cn/
+      logo: ../images/logos/aliuedcn.png
+      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
+    - title: 网易uedc
+      url: http://uedc.163.com/
+      logo: ../images/logos/uedc.png
+      description: 网易用户体验设计中心（User Experience Design Center）
+    - title: 百度用户体验中心
+      url: http://ued.baidu.com/
+      logo: ../images/logos/uedbaidu.png
+      description: 百度用户体验中心
+    - title: 京东设计中心
+      url: http://jdc.jd.com/
+      logo: ../images/logos/JDC.png
+      description: 京东设计中心
+    - title: 百度企业产品用户体验中心
+      url: http://eux.baidu.com/
+      logo: ../images/logos/euxbaidu.png
+      description: 百度企业产品用户体验中心
+    - title: 携程设计委员会
+      url: http://ued.ctrip.com/
+      logo: ../images/logos/ctrip.png
+      description: 携程设计委员会-Ctrip Design Committee
      
+
+
+
      
 - taxonomy: 友情链接
   icon: fa-link
   friend:
     - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
+      url: ../sub1
+      description: 本站子页面一
     - title: webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
     - title: 一为导航
       url: https://nav.iowen.cn/
       description: onenav主题演示站
-    - title: 一为 webstack 演示站
-      url: https://webstack.iotheme.cn/
-    - title: iplaycode 演示站
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
+    - title: 趣导航
+      url: https://qssily.com/
+    - title: 404导航
+      url: https://www.404dh.icu/
+      description: 只导航优质资源
+    - title: OPENI
+      url: https://openi.cn/
+    - title: 飞猪ai导航
+      url: https://feizhuke.com/
+      description: AI工具集箱
     - title: bioit导航
       url: https://www.bioit.top/
       description:
     - title: 所长导航
       url: https://liutongxu.github.io/
       description:
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
+    - title: 一为webstack
+      url: https://webstack.iotheme.cn/
+    - title: iplaycode
+      url: https://iplaycode.github.io/nav/
+      description: iplaycode的demo导航网站
 ---

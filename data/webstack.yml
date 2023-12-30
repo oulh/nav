@@ -48,7 +48,7 @@
     
 
 - taxonomy: 社区咨询
-  icon: fa-newspaper-o
+  icon: fa-regular fa-newspaper
   links: 
     - title: 雷锋网
       logo: images/logos/leiphone.png
@@ -101,7 +101,7 @@
     
 
 - taxonomy: 灵感采集
-  icon: fa-lightbulb-o
+  icon: fa-regular fa-lightbulb
   list: 
     - term: 发现产品
       links:
@@ -649,7 +649,7 @@
       
 
 - taxonomy: 常用工具
-  icon: fa-diamond
+  icon: fa-palette
   list: 
     - term: 图形创意
       links:
@@ -854,7 +854,7 @@
 
 
 - taxonomy: 学习教程
-  icon: fa-pencil
+  icon: fa-regular fa-folder-open
   list: 
     - term: 设计规范
       links:
@@ -958,7 +958,7 @@
 
 
 - taxonomy: UED团队
-  icon: fa-user
+  icon: fa-user-group
   links: 
     - title: Airbnb Design
       url: https://airbnb.design
@@ -1044,21 +1044,25 @@
     - title: 一为导航
       url: https://nav.iowen.cn/
       description: onenav主题演示站
-    - title: 一为 webstack 演示站
-      url: https://webstack.iotheme.cn/
-    - title: iplaycode 演示站
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
+    - title: 趣导航
+      url: https://qssily.com/
+    - title: 404导航
+      url: https://www.404dh.icu/
+      description: 只导航优质资源
+    - title: OPENI
+      url: https://openi.cn/
+    - title: 飞猪ai导航
+      url: https://feizhuke.com/
+      description: AI工具集箱
     - title: bioit导航
       url: https://www.bioit.top/
       description:
     - title: 所长导航
       url: https://liutongxu.github.io/
       description:
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-  
+    - title: 一为webstack
+      url: https://webstack.iotheme.cn/
+    - title: iplaycode
+      url: https://iplaycode.github.io/nav/
+      description: iplaycode的demo导航网站
+---
