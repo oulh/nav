@@ -33,3 +33,6 @@ copyright = "oulh"
 [params.github]
   enable = true #true显示 false隐藏
   url = "https://github.com/oulh/nav"
+  
+[permalinks]  
+  404 = "/404.html"
