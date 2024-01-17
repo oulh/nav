@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>{{ .Site.Title }} - {{ .Params.title }}</title>
+<meta name="theme-color" content="#2C2E2F" />
+<meta name="keywords" content="{{ .Site.Params.keywords }}">
+<meta name="description" content="{{ .Site.Params.Description }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="">
+<link rel="shortcut icon" href="../favicon.png">
+<link rel="apple-touch-icon" href="../app-ico.png">
+<link rel='stylesheet' id='font-awesome-css'  href='../css/font-awesome.min.css?ver=6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='../css/bootstrap.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-css'  href='../css/nav.css?ver=2.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='../js/jquery-1.11.1.min.js'></script>
+<!-- 不蒜子访问量统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</head>
+<body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
+    <div class="page-container">
+        <div class="sidebar-menu toggle-others fixed">
+            <div class="sidebar-menu-inner">
+                <header class="logo-env">
+                    <!-- logo -->
+                    <div class="logo">
+                        <a href="../" class="logo-expanded">
+                            <img src="../images/logo.png" height="40" alt="" />
+                            &nbsp&nbsp{{ .Site.Title }}                            
+                        </a>
+                        <a href="../" class="logo-collapsed">
+                            <img src="../images/logo.png" height="40" alt="">
+                        </a>
+                    </div>
+                    <div class="mobile-menu-toggle visible-xs">
+                        <a href="#" data-toggle="mobile-menu">
+                            <i class="fa fa-bars"></i>
+                        </a>
+                    </div>
+                </header>
+                <ul id="main-menu" class="main-menu">
+                    {{ range .Site.Data.webstack }}
+                    {{ if .list }}
+                        <li>
+                            <a>
+                               <i class="fa {{ .icon }} fa-fw"></i>
+                               <span class="title">{{ .taxonomy }}</span>
+                            </a>
+                            <ul>
+                                {{ range .list }}    
+                                <li>
+                                    <a href="../#{{ md5 .term }}" class="smooth">{{ .term }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                    {{ else }}
+                        <li>
+                            <a href="../#{{ md5 .taxonomy }}" class="smooth">
+                               <i class="fa {{ .icon }} fa-fw"></i>
+                               <span class="title">{{ .taxonomy }}</span>
+                            </a>
+                        </li> 
+                    {{ end }}
+                    {{ end }}
+                    <li class="submit-tag">
+                    {{ if .Site.Params.edit.enable }}
+                    <li>
+                        <a href="{{ .Site.Params.edit.url }}" target="_blank" rel="noopener noreferrer">
+                            <i class="fa fa-edit fa-fw"></i>
+                            <span class="tooltip-blue">在线编辑</span>
+                        </a>
+                    </li>
+                    {{ end }}                                        
+                    <li>
+                        <a href="../about">
+                            <i class="fa fa-heart fa-fw"></i>
+                            <span class="tooltip-blue">关于本站</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-content page">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 mx-auto">
+                        <div class="panel panel-default">
+                            <h1 class="h2">{{ .Title }}</h1>
+                            <div class="panel-body mt-2">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        {{ .Content }}
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="main-footer sticky footer-type-1">
+                <div class="foot-button">
+                    <a href="#" rel="go-top">
+                        <i class="fa fa-angle-up"></i>
+                    </a>
+                </div>
+                <div class="footer-inner">
+                    <div class="footer-text">
+                        Copyright © {{ now.Format "2006"}} <a href=""><strong>{{ if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}author{{ end }}</strong>&nbsp;&nbsp;</a>              
+                    </div>
+                    <div class="footer-text">                       
+                        Design by <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank" style="color: rgb(13, 109, 252); font-weight: bold;">Webstack</a>&nbsp;&middot;&nbsp;Themes by <a href="https://github.com/oulh/hugo-webstack" target="_blank" style="color: rgb(13, 109, 252); font-weight: bold;">hugo-webstack</a>
+                    </div>
+                    <div class="footer-text">
+                        <span id="busuanzi_container_page_pv"  style="font-size:11px"> &nbsp;&nbsp; <i class="fa far fa-eye"></i> <span id="busuanzi_value_page_pv" style="color: rgb(13, 109, 252); font-weight: bold;"></span></span>                   
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+<script type='text/javascript' src='../js/bootstrap.min.js?ver=3.4.1'></script>
+<script type='text/javascript' src='../js/TweenMax.min.js?ver=1.13.1'></script>
+<script type='text/javascript' src='../js/perfect-scrollbar.min.js?ver=0.5.8'></script>
+<script type='text/javascript' src='../js/nav.js?ver=2.0.0'></script>
+<script type='text/javascript' src='../js/lazyload.min.js?ver=2.0.0'></script>
+</body>
+</html>
