@@ -48,7 +48,11 @@
 
    如何希望提交后不触发构建，只需在 commit 信息中包含关键词：`[skip ci]`或`[no ci]`，包括[]符号。
    
-## webstack.yml配置
+5. 访问页面
+
+   你的站点链接是：https://用户名.github.io/仓库名
+
+## 附：webstack.yml
 
 可以复制以下配置，替换 [webstack.yml](https://github.com/oulh/nav/blob/main/data/webstack.yml) 原有的内容，更方便修改编辑自己的内容。记得带上"---"符号
 
