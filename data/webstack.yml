@@ -305,6 +305,23 @@
 - taxonomy: 办公相关
   icon: fa-palette
   list: 
+    - term: 小
+      links:
+        - title: RevokeMsgPatcher
+          logo: 
+          url: https://github.com/huiyadanli/RevokeMsgPatcher
+          description: 微信/QQ/TIM防撤回补丁
+          tags: 
+        - title: CleanMyWechat
+          logo: 
+          url: https://github.com/blackboxo/CleanMyWechat
+          description: 开源，自动删除PC微信缓存数据
+          tags: 
+        - title: dupeGuru
+          logo: 
+          url: https://dupeguru.voltaicideas.net/
+          description: 重复文件查找
+
     - term: 翻译
       links:
         - title: CrowTranslate
@@ -488,38 +505,7 @@
           url: https://www.gaoding.com
           logo: images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
-        
-    - term: Chrome插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: images/logos/wappalyzer.png
-          description: Identify technology on websites
-        - title: Panda
-          url: http://usepanda.com/
-          logo: images/logos/usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: images/logos/sizzy.png
-          description: A tool for developing responsive websites crazy-fast
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: images/logos/csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: images/logos/insight.png
-          description: IDE-like code search and navigation, on the cloud
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: images/logos/mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
 
-
-- taxonomy: 效率
-  icon: fa-regular fa-folder-open
-  list: 
     - term: 文件管理
       links:
         - title: Everything
@@ -610,109 +596,312 @@
           tags: 
     - term: Win系统管理
       links:
-       - title: ExplorerPatcher
-         logo: 
-         url: https://github.com/valinet/ExplorerPatcher
-         description: 任务栏、开始菜单设置工具
-         tags: 
+        - title: ExplorerPatcher
+          logo: 
+          url: https://github.com/valinet/ExplorerPatcher
+          description: 任务栏、开始菜单设置工具
+          tags: 
+        - title: PowerToys
+          logo: 
+          url: https://github.com/microsoft/PowerToys
+          description: 微软官方出品，丰富系统功能
+          tags: 
+        - title: 微PE工具箱
+          logo: 
+          url: http://www.wepe.com.cn/
+          description: WinPE装机维护工具
+          tags: 
+        - title: 云图工具箱
+          logo: 
+          url: https://wintool.cc/
+          description: 系统工具箱
+          tags: 
+        - title: 图吧工具箱
+          logo: 
+          url: http://www.tbtool.cn/
+          description: 电脑系统检测工具
+          tags: 
+        - title: 硬件狗狗（HDDog）
+          logo: 
+          url: http://yjgg.mydrivers.com/
+          description: 电脑硬件检测
+          tags: 
+        - title: Ventoy
+          logo: 
+          url: https://github.com/ventoy/Ventoy/releases
+          description: 开源，U盘启动盘制作，支持多系统，还能当普通U盘保存文件
+          tags: 
+        - title: Rufus
+          logo: 
+          url: https://github.com/pbatard/rufus
+          description: 开源，制作U盘启动盘
+          tags: 
+        - title: CnCrypt
+          logo: 
+          url: http://cncrypt.com/
+          description: 磁盘加密
+          tags: 
+        - title: CrystalDiskInfo
+          logo: 
+          url: https://crystalmark.info/en/
+          description: 专业硬盘检测
+          tags: 
+        - title: DiskGenius
+          logo: 
+          url: https://www.diskgenius.cn/
+          description: 硬盘管理
+          tags: 
+        - title: Windows超级管理器
+          logo: 
+          url: https://www.colithel.com/supermanager.html
+          description: 
+          tags: 
+        - title: Sophi
+          logo: 
+          url: https://github.com/Sophia-Community/SophiApp
+          description: 微调windows
+          tags: 
+        - title: WPD
+          logo: 
+          url: https://wpd.app/
+          description: Win10隐私设置工具
+          tags: 
+        - title: Optimizer
+          logo: 
+          url: https://github.com/hellzerg/optimizer
+          description: 系统优化
+          tags: 
+        - title: TurnedOnTimesView
+          logo: 
+          url: http://www.nirsoft.net/utils/computer_turned_on_times.html
+          description: 开关机时间、电脑持续使用时间、关机或重启的原因
+          tags: 
+        - title: FixWin
+          logo: 
+          url: http://www.dayanzai.me/fixwin-11.html
+          description: win11/10修复
+          tags: 
+
        
           
-    - term: 交互设计
+    - term: 远程控制
       links:
-        - title: Little Big Details
-          url: http://littlebigdetails.com/
-          logo: images/logos/littlebigdetails.png
-          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
-        - title: Smashing Magazine
-          url: https://www.smashingmagazine.com/category/user-experience
-          logo: images/logos/smashingmagazine.png
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-        - title: nngroup
-          url: https://www.nngroup.com/articles/
-          logo: images/logos/nngroup.png
-          description: Evidence-Based User Experience Research, Training, and Consulting
-        - title: Boxes and Arrows
-          url: http://boxesandarrows.com/
-          logo: images/logos/boxesandarrows.png
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
-        - title: UX Design Weekly
-          url: http://uxdesignweekly.com/
-          logo: images/logos/uxdesignweekly.png
-          description:  get a hand picked list of the best user experience design links every week. 
-        - title: UX Ren
-          url: http://uxren.cn/
-          logo: images/logos/uxren.png
-          description: 用户体验人的专业社区
+        - title: HiPC移动助手
+          logo: 
+          url: https://hipc.cn/
+          description: 手机远控电脑
+          tags: 
+        - title: EmailMyPC
+          logo: 
+          url: https://jackeriss.github.io/email_my_pc
+          description: 邮件控制电脑
+          tags: 
+        - title: RemoteControlDesktop
+          logo: 
+          url: https://github.com/codext-remotecontrol/remotecontrol-desktop
+          description: 远程控制
+          tags: 
+        - title: 爱思远控
+          logo: 
+          url: https://www.i4.cn/pro_remote.html
+          description: 
+          tags: 
+        - title: 网易UU远程
+          logo: 
+          url: https://yc.uu.163.com/
+          description: 
+          tags: 
 
 
-- taxonomy: UED团队
+- taxonomy: 效率
   icon: fa-user-group
-  links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
-    - title: Facebook Design
-      url: http://facebook.design/
-      logo: images/logos/FacebookDesign.png
-      description: Facebook Design
-    - title: Google Design
-      url: https://design.google/
-      logo: images/logos/GoogleDesign.png
-      description: Google Design
-    - title: eico design
-      url: http://eicodesign.com/
-      logo: images/logos/eico.png
-      description: 数字化咨询与产品专家
-    - title: nice design
-      url: http://www.niceui.cn/
-      logo: images/logos/niceui.png
-      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-    - title: 腾讯CDC
-      url: http://cdc.tencent.com/
-      logo: images/logos/cdc.png
-      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-    - title: TGideas
-      url: http://tgideas.qq.com/
-      logo: images/logos/tgideas.png
-      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-    - title: ISUX
-      url: https://isux.tencent.com/
-      logo: images/logos/isux.png
-      description: 腾讯社交用户体验设计部
-    - title: MXD
-      url: http://mxd.tencent.com/
-      logo: images/logos/mxd.png
-      description: 腾讯MIG无线互联网事业群设计团队
-    - title: Aliued
-      url: http://www.aliued.com/
-      logo: images/logos/aliued.png
-      description: 阿里巴巴国际UED团队
-    - title: U一点
-      url: http://www.aliued.cn/
-      logo: images/logos/aliuedcn.png
-      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-    - title: 网易uedc
-      url: http://uedc.163.com/
-      logo: images/logos/uedc.png
-      description: 网易用户体验设计中心（User Experience Design Center）
-    - title: 百度用户体验中心
-      url: http://ued.baidu.com/
-      logo: images/logos/uedbaidu.png
-      description: 百度用户体验中心
-    - title: 京东设计中心
-      url: http://jdc.jd.com/
-      logo: images/logos/JDC.png
-      description: 京东设计中心
-    - title: 百度企业产品用户体验中心
-      url: http://eux.baidu.com/
-      logo: images/logos/euxbaidu.png
-      description: 百度企业产品用户体验中心
-    - title: 携程设计委员会
-      url: http://ued.ctrip.com/
-      logo: images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
-     
+  list: 
+    - term: 剪贴板
+      links: 
+        - title: Ditto
+          logo: 
+          url: https://ditto-cp.sourceforge.io/index.php
+          description: 开源，商店版、便携版
+          tags: 
+        - title: Snatch
+          logo: 
+          url: https://snatch.kasper.io
+          description: ​剪贴板管理
+          tags: 
+        - title: PasteEx
+          logo: 
+          url: https://github.com/huiyadanli/PasteEx/blob/master/README_CN.md
+          description: 将剪切板内容存为文件
+          tags: 
+        - title: CopyQ
+          logo: 
+          url: https://hluk.github.io/CopyQ/
+          description: 剪贴板增强
+          tags: 
+        - title: CC助手
+          logo: 
+          url: https://ccyixia.com/
+          description: 复制两次，一键收藏
+          tags: 
+    - term: 预览
+      links: 
+      - title: QuickLook
+        logo: 
+        url: http://pooi.moe/QuickLook/
+        description: 开源，商店版
+        tags: 
+      - title: 火柴
+        logo: 
+        url: https://www.huochaipro.com/
+        description: 
+        tags: 
+      - title: seer
+        logo: 
+        url: https://sourceforge.net/projects/ccseer/
+        description: 预览，微软出品，
+        tags: 
+    -term: 快捷启动
+      - title: Wox
+        logo: 
+        url: http://www.wox.one/
+        description: 开源，快捷启动工具
+        tags: 
+      - title: nTrun
+        logo: 
+        url: https://www.ntrun.com/index.html
+        description: 快速启动工具
+        tags: 
+      - title: Maya
+        logo: 
+        url: https://github.com/25H/Maya/releases
+        description: 快速启动
+        tags: 
+      - title: Lucy
+        logo: 
+        url: https://www.52pojie.cn/thread-1624289-1-1.html
+        description: 吾爱破解出品，绿色免安装
+        tags: 
+      - title: ​Quicker
+        logo: 
+        url: https://getquicker.net/
+        description: 
+        tags: 
+
+    -term: 鼠标手势
+      - title: WinXcorners
+        logo: 
+        url: https://github.com/vhanla/winxcorners/
+        description: 开源，添加触发角功能
+        tags: 
+        tags: 
+      - title: Wheel
+        logo: 
+        url: https://github.com/majorworld/Wheel
+        description: 24个屏幕边缘触发器
+        tags: 
+      - title: MouseInc
+        logo: 
+        url: https://shuax.com/
+        description: 鼠标增强工具，小巧，鼠标手势及增强功能
+        tags: 
+      - title: Wgestures
+        logo: 
+        url: http://www.yingdev.com/projects/wgestures
+        description: 开源，全局鼠标手势
+        tags: 
+      - title: MousePlus
+        logo: 
+        url: https://gitee.com/majorworld/mouseplus
+        description: 鼠标手势软件，内置可视化脚本编辑器
+        tags: 
+      - title: Stroke
+        logo: 
+        url: https://github.com/poerin/Stroke
+        description: 鼠标手势，无四角手势，支持中文？
+        tags: 
+      - title: OneQuick
+        logo: 
+        url: https://onequick.org/
+        description: 快捷键工具
+        tags: 
+       
+
+- taxonomy: 桌面美化
+  icon: fa-user-group
+  list: 
+      - title: TranslucentTB
+        logo: 
+        url: https://github.com/TranslucentTB/TranslucentTB
+        description: 任务栏透明、美化
+        tags: 
+      - title: TaskbarTools
+        logo: 
+        url: https://github.com/Elestriel/TaskbarTools
+        description: 任务栏透明、美化
+        tags: 
+      - title: Wifinian
+        logo: 
+        url: https://github.com/emoacht/Wifinian
+        description: 开源，商店版，WiFi管理
+        tags: 
+      - title: ModernFlyouts
+        logo: 
+        url: https://github.com/ModernFlyouts-Community/ModernFlyouts
+        description: 开源，商店版，音量管理
+        tags: 
+      - title: EarTrumpet
+        logo: 
+        url: https://github.com/File-New-Project/EarTrumpet
+        description: 开源，声音输出管理
+        tags: 
+      - title: TrafficMonitor
+        logo: 
+        url: https://github.com/zhongyang219/TrafficMonitor
+        description: 监控悬浮窗
+        tags: 
+      - title: StartMenuX
+        logo: 
+        url: https://www.startmenux.com/zh-cn/
+        description: 免费版，开始菜单win7化
+        tags: 
+        tags: 
+      - title: Splashy
+        logo: 
+        url: https://splashy.art/
+        description: 自动换壁纸，壁纸源自Unsplash
+        tags: 
+      - title: upupoo
+        logo: 
+        url: http://www.upupoo.com
+        description: 动态壁纸，全平台
+        tags: 
+      - title: 火萤
+        logo: 
+        url: http://www.huoying666.com/
+        description: 动态壁纸，全平台
+        tags: 
+      - title: FliqloScreenSaver
+        logo: 
+        url: https://fliqlo.com/
+        description: 翻页时间屏保
+        tags: 
+      - title: ScreensaversPlanes
+        logo: 
+        url: https://www.screensaversplanet.com/screensavers/
+        description: 屏保合集
+        tags: 
+      - title: WallpaperEngine
+        logo: 
+        url: https://www.wallpaperengine.io/
+        description: Steam购买
+        tags: 
+      - title: Rainmete（雨滴桌面）
+        logo: 
+        url: https://www.rainmeter.net/
+        description: 桌面美化工具，添加挂件
+        tags: 
+
+          
 
 
 
