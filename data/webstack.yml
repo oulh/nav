@@ -43,7 +43,6 @@
           url: https://zh.snipaste.com/
           description: 截图+贴图，便携版、商店版
           tags: 
-          tags: 
         - title: Sniptool
           logo: 
           url: https://www.reasyze.com/Sniptool/
@@ -126,8 +125,7 @@
           logo: 
           url: https://www.winamp.com/
           description: 
-          tags: 
-          tags: 
+          tags:
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
@@ -163,21 +161,6 @@
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放
           tags: 
-      
-    - term: 网页灵感
-      links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
-          logo: images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
-        - title: The FWA
-          logo: images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
 
       
 - taxonomy: 下载
@@ -189,7 +172,6 @@
           logo: 
           url: https://github.com/HFrost0/bilix
           description: 异步下载
-          tags: 
           tags: 
         - title: 哔哩下载姬downkyi
           logo: 
@@ -223,6 +205,7 @@
           logo:
           url: https://github.com/qiye45/wechatDownload
           description:  微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
+          tags:
         - title: WeChat_Article
           logo: 
           url: https://github.com/1061700625/WeChat_Article
@@ -249,6 +232,7 @@
           logo:
           url: https://github.com/InfpHub/Raptor
           description: 第三方阿里云盘桌面应用客户端
+          tags:
  
     - term: 一般下载
       links:
@@ -318,6 +302,7 @@
           logo: 
           url: https://dupeguru.voltaicideas.net/
           description: 重复文件查找
+          tags:
 
     - term: 翻译
       links:
@@ -405,7 +390,8 @@
         - title: SolidConverterPDF
           logo: 
           url: https://www.soliddocuments.com/zh/
-          description: 付费，名称：SolidConverterPDFv9
+          description: 付费，名称：SolidConverterPDFv
+          tags:
         - title: 悦书PDF阅读器
           logo: 
           url: http://www.yueshupdf.com/
@@ -433,9 +419,7 @@
           logo: 
           url: https://www.nsaneforums.com/topic/332794-office-2013-2019-c2r-install-install-lite-654/
           description: 
-          tags: 
-          tags: 
-          tags: 
+          tags:
         - title: 小恐龙公文排版助手
           logo: 
           url: https://gw.xkonglong.com/#/
@@ -471,37 +455,6 @@
           url: https://www.islide.cc/
           description: 似乎内置付费内容？
           tags: 
-
-    - term: 工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-        - title: ezgif
-          url: https://ezgif.com
-          logo: images/logos/ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: images/logos/Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: images/logos/screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: images/logos/svgomg.png
-          description: SVG在线压缩平台
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: images/logos/gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
 
     - term: 文件管理
       links:
@@ -567,6 +520,7 @@
           logo: 
           url: https://github.com/LANDrop/LANDrop
           description: 无安卓
+          tags:
         
     - term: 同步
       links:
@@ -790,7 +744,6 @@
         url: https://github.com/vhanla/winxcorners/
         description: 开源，添加触发角功能
         tags: 
-        tags: 
       - title: Wheel
         logo: 
         url: https://github.com/majorworld/Wheel
@@ -860,7 +813,6 @@
         logo: 
         url: https://www.startmenux.com/zh-cn/
         description: 免费版，开始菜单win7化
-        tags: 
         tags: 
       - title: Splashy
         logo: 
