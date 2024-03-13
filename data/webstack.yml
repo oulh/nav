@@ -273,7 +273,6 @@
   list: 
     - term: B站下载
       links:
-      logo: https://static.hdslb.com/mobile/img/512.png
         - title: bilix
           logo: 
           url: https://github.com/HFrost0/bilix
@@ -298,7 +297,6 @@
       
     - term: 微信公众号下载
       links:
-      logo: https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico
         - title: wechatDownload
           logo: 
           url: https://github.com/xiaoguyu/wechatDownload
@@ -388,417 +386,169 @@
           description: 全能，http、磁力，浏览器扩展，资源嗅探
           tags: 
       
-    - term: Sketch资源
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
-        - title: Sketch Measure
-          url: http://utom.design/measure/
-          logo: images/logos/SketchMeasure.png
-          description: Friendly user interface offers you a more intuitive way of making marks.
-        - title: Sketch App Sources
-          url: https://www.sketchappsources.com/
-          logo: images/logos/sketchappsources.png
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-        - title: Sketch.im
-          url: http://www.sketch.im/
-          logo: images/logos/sketchIm.png
-          description: Sketch 相关资源汇聚
-        - title: Sketch Hunt
-          url: http://sketchhunt.com/
-          logo: images/logos/sketchhunt.png
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
-        - title: Sketch中文网
-          url: http://www.sketchcn.com/
-          logo: images/logos/sketchcn.png
-          description: 分享最新的Sketch中文手册
-        - title: Awesome Sketch Plugins
-          url: https://awesome-sket.ch/
-          logo: images/logos/AwesomeSketchPlugins.png
-          description: A collection of really useful Sketch plugins.
-        - title: Sketchcasts
-          url: https://www.sketchcasts.net/
-          logo: images/logos/sketchcasts.png
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-      
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography
-        - title: Typekit
-          url: https://typekit.com/
-          logo: images/logos/typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: images/logos/Fondertype.png
-          description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: images/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: images/logos/sicangziti.png
-          description: 优质字体免费下载站
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
-          description: FREE fonts for graphic designers
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: images/logos/losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: images/logos/fontex.png
-          description: Free Fonts to Download + Premium Typefaces
-        - title: FontM
-          url: http://fontm.com/
-          logo: images/logos/FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: images/logos/MyFonts.png
-          description: Fonts for Print, Products & Screens
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: images/logos/dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: images/logos/OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: images/logos/abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts)
-      
-    - term: Mockup
-      links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-        - title: Dunnnk
-          url: http://dunnnk.com/
-          logo: images/logos/Dunnnk.png
-          description:  Generate Product Mockups For Free
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
-        - title: Threed
-          url: http://threed.io/
-          logo: images/logos/threed.png
-          description: Generate 3D Mockups right in your Browser
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
-        - title: Lstore
-          url: https://free.lstore.graphics/
-          logo: images/logos/lstore.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: pixeden
-          url: https://www.pixeden.com/
-          logo: images/logos/pixeden.png
-          description: free web resources and graphic design templates.
-        - title: For Graphic TM
-          url: http://forgraphictm.com/
-          logo: images/logos/forgraphictm.png
-          description: High Quality PSD Mockups for Graphic Designers.
-      
-    - term: 摄影图库
-      links:
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: images/logos/unsplash.png
-          description: Beautiful, free photos.
-        - title: visualhunt
-          url: https://visualhunt.com/
-          logo: images/logos/visualhunt.png
-          description: 100% Free High Quality Photos
-        - title: librestock
-          url: https://librestock.com/
-          logo: images/logos/librestock.png
-          description: 65,084 high quality do-what-ever-you-want stock photos
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: images/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
-        - title: SplitShire
-          url: https://www.splitshire.com/
-          logo: images/logos/SplitShire.png
-          description: Free Stock Photos and Videos for commercial use.
-        - title: StockSnap
-          url: https://stocksnap.io/
-          logo: images/logos/StockSnap.png
-          description: Beautiful free stock photos
-        - title: albumarium
-          url: http://albumarium.com/
-          logo: images/logos/albumarium.png
-          description: The best place to find & share beautiful images
-        - title: myphotopack
-          url: https://myphotopack.com/
-          logo: images/logos/myphotopack.png
-          description: A free photo pack just for you. Every month.
-        - title: Notaselfie
-          url: http://notaselfie.com/
-          logo: images/logos/notaselfie.png
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-        - title: papers
-          url: http://papers.co/
-          logo: images/logos/papers.png
-          description: Wallpapers Every Hour!Hand collected :)
-        - title: stokpic
-          url: http://stokpic.com/
-          logo: images/logos/stokpic.png
-          description: Free Stock Photos For Commercial Use
-        - title: 55mm
-          url: https://55mm.co/visuals
-          logo: images/logos/55mm.png
-          description: Use our FREE photos to tell your story! 
-        - title: thestocks
-          url: http://thestocks.im/
-          logo: images/logos/thestocks.png
-          description: Use our FREE photos to tell your story! 
-        - title: freenaturestock
-          url: http://freenaturestock.com/
-          logo: images/logos/freenaturestock.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: negativespace
-          url: https://negativespace.co/
-          logo: images/logos/negativespace.png
-          description: Beautiful, High-Resolution Free Stock Photos
-        - title: gratisography
-          url: https://gratisography.com/
-          logo: images/logos/gratisography.png
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions. 
-        - title: imcreator
-          url: http://imcreator.com/free
-          logo: images/logos/imcreator.png
-          description: A curated collection of free web design resources, all for commercial use.
-        - title: lifeofpix
-          url: http://www.lifeofpix.com/
-          logo: images/logos/lifeofpix.png
-          description: Free high resolution photography
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: Free Stock Photos for Creative Professionals
-        - title: mmtstock
-          url: https://mmtstock.com/
-          logo: images/logos/mmtstock.png
-          description: Free photos for commercial use
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: a place to find, show and share public domain photos
-        - title: magdeleine
-          url: https://magdeleine.co/browse/
-          logo: images/logos/magdeleine.png
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-        - title: jeshoots
-          url: http://jeshoots.com/
-          logo: images/logos/jeshoots.png
-          description: New Free Photos & Mockups in to your Inbox!
-        - title: hdwallpapers
-          url: https://www.hdwallpapers.net
-          logo: images/logos/hdwallpapers.png
-          description: High Definition Wallpapers & Desktop Backgrounds
-        - title: publicdomainarchive
-          url: http://publicdomainarchive.com/
-          logo: images/logos/publicdomainarchive.png
-          description: New 100% Free Stock Photos. Every. Single. Week.
-      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: images/logos/pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: images/logos/pptmind.png
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: images/logos/tretars.png
-          description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: images/logos/500d.png
-          description: 中国领先的PPT模板共享平台
+   
       
 
-- taxonomy: 常用工具
+- taxonomy: 办公相关
   icon: fa-palette
   list: 
-    - term: 图形创意
+    - term: 翻译
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: images/logos/photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: images/logos/AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: images/logos/Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: images/logos/INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: images/logos/cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: images/logos/3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: images/logos/blender.png
-          description: Blender is the free and open source 3D creation suite.
+        - title: CrowTranslate
+          logo: 
+          url: https://github.com/crow-translate/crow-translate
+          description: 开源，翻译，可调用Google,YandexandBingtranslateAPI
+          tags: 
+        - title: 团子翻译器
+          logo: 
+          url: https://github.com/PantsuDango/Dango-Translator/releases/tag/Ver3.4
+          description: 全局翻译
+          tags: 
+        - title: CopyTranslator
+          logo: 
+          url: https://copytranslator.github.io/
+          description: 翻译工具
+          tags: 
       
-    - term: 界面设计
+    - term: OCR
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: images/logos/ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: images/logos/invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: images/logos/marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: images/logos/MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: images/logos/figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 交互动效
+        - title: 天若OCR
+          logo: 
+          url: http://tianruoocr.cn/
+          description: 
+          tags: 
+        - title: 妙手OCR
+          logo: 
+          url: https://www.52pojie.cn/thread-1164883-1-1.html
+          description: 
+          tags: 
+        - title: PaddleOCR
+          logo: 
+          url: https://github.com/PaddlePaddle/PaddleOCR
+          description: 
+          tags: 
+    - term: PDF
       links:
-        - title: Adobe After Effects CC
-          url: https://www.adobe.com/cn/products/aftereffects/
-          logo: images/logos/AdobeAfterEffectsCC.png
-          description: 电影般的视觉效果和动态图形。
-        - title: principle
-          url: http://principleformac.com/
-          logo: images/logos/principle.png
-          description: Animate Your Ideas, Design Better Apps
-        - title: flinto
-          url: https://www.flinto.com/
-          logo: images/logos/flinto.png
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-        - title: framer
-          url: https://framer.com/
-          logo: images/logos/framer.png
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-        - title: ProtoPie
-          url: http://www.protopie.cn/
-          logo: images/logos/protopie.png
-          description: 高保真交互原型设计
+        - title: SumatraPDF
+          logo: 
+          url: https://www.sumatrapdfreader.org
+          description: pdf阅读器，开源，支持PDF、epub、mobi、SPS,DjVu,CHM,CBZ和CBR格式
+          tags: 
+        - title: PDFsamBasic
+          logo: 
+          url: https://pdfsam.org/
+          description: 开源，合并、拆分、提取页面、旋转和混合PDF文件
+          tags: 
+        - title: uPDF
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1082693
+          description: 吾爱破解出品，PDF编辑，小工具
+          tags: 
+        - title: PDF24
+          logo: 
+          url: https://zh.pdf24.org/
+          description: PDF的24个功能
+          tags: 
+        - title: PDFShaperFree
+          logo: 
+          url: https://www.pdfshaper.com/
+          description: 
+          tags: 
+        - title: PDFPatcher
+          logo: 
+          url: https://www.cnblogs.com/pdfpatcher/
+          description: 多功能PDF工具箱，“0.6.2版可能是PDF补丁丁的最后一版。它在未来将不再更新。”免安装，解压即用
+          tags: 
+        - title: XoDoPDFReader
+          logo: 
+          url: https://www.xodo.com/#
+          description: 全平台
+          tags: 
+        - title: doPDF
+          logo: 
+          url: http://www.dopdf.com/
+          description: PDF打印机,虚拟PDF打印机驱动程序,将任何类型的可打印文档转换为PDF文件,免费
+          tags: 
+        - title: iSkysoftPDFEditor
+          logo: 
+          url: 付费，界面友好
+          description: 
+          tags: 
+        - title: SolidConverterPDF
+          logo: 
+          url: https://www.soliddocuments.com/zh/
+          description: "付费，名称：SolidConverterPDFv9
+          tags: 
+          tags: 
+          tags: 
+          tags: 
+        - title: 悦书PDF阅读器
+          logo: 
+          url: http://www.yueshupdf.com/
+          description: PDF转换，注释
+          tags: 
+        - title: 福昕PDF编辑器个人版
+          logo: 
+          url: http://editor.foxitsoftware.cn/
+          description: 专业，号称“永久免费试用”；试用版在可编辑的第一页添加全局水印，二次编辑在第二页添加水印，依此类推。
+          tags: 
+        - title: PDFgear
+          logo: 
+          url: https://www.pdfgear.com/zh/
+          description: 阅读、编辑、转换、合并和跨设备签署PDF文件，且无需注册。
+          tags: 
 
-    - term: 在线配色
+    - term: Office
       links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: images/logos/uigradients.png
-          description: Beautiful colored gradients
-        - title: gradients
-          url: http://gradients.io/
-          logo: images/logos/gradients.png
-          description: Curated gradients for designers and developers
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: images/logos/Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: images/logos/webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: images/logos/grabient.png
-          description: 2017 Grabient by unfold
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: images/logos/thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: images/logos/flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme
-        - title: coolors
-          url: https://coolors.co/
-          logo: images/logos/coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: images/logos/colorhunt.png
-          description: Beautiful Color Palettes
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: images/logos/AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: images/logos/flatuicolorpicker.png
-          description: Best Flat Colors For UI Design
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: images/logos/trianglify.png
-          description: Trianglify Generator
-        - title: klart
-          url: https://klart.co/colors/
-          logo: images/logos/klart.png
-          description: Beautiful colors and designs to your inbox every week
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: images/logos/vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+        - title: OfficeToolPlus
+          logo: 
+          url: https://otp.landian.vip/zh-cn/
+          description: Office安装、激活、管理
+          tags: 
+        - title: Office2013-2019C2RInstall
+          logo: 
+          url: https://www.nsaneforums.com/topic/332794-office-2013-2019-c2r-install-install-lite-654/
+          description: 
+          tags: 
+          tags: 
+          tags: 
+        - title: 小恐龙公文排版助手
+          logo: 
+          url: https://gw.xkonglong.com/#/
+          description: word插件
+          tags: 
+        - title: 方方格子
+          logo: 
+          url: http://www.ffcell.com/
+          description: excel插件
+          tags: 
+        - title: excel易用宝
+          logo: 
+          url: https://yyb.excelhome.net/
+          description: 由ExcelHome开发，永久免费
+          tags: 
+        - title: Excel必备工具箱（免费版）
+          logo: 
+          url: http://www.ahzll.top/
+          description: 
+          tags: 
+        - title: Excel精灵
+          logo: 
+          url: http://www.excelbbx.net/
+          description: 似乎有次数限制？Word精灵、PPT精灵、Office精灵三合一
+          tags: 
+        - title: easychart
+          logo: 
+          url: http://easychart.github.io/post/Easycharts/
+          description: 似乎年代久远？
+          tags: 
+        - title: iSlide
+          logo: 
+          url: https://www.islide.cc/
+          description: 似乎内置付费内容？
+          tags: 
 
-    - term: 在线工具
+    - term: 工具
       links:
         - title: tinypng
           url: https://tinypng.com/
@@ -857,82 +607,186 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 学习教程
+- taxonomy: 效率
   icon: fa-regular fa-folder-open
   list: 
-    - term: 设计规范
+    - term: 文件管理
       links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: images/logos/designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: images/logos/awesome_design_systems.png
-          description:  A collection of awesome design systems
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: images/logos/Material_Design.png
-          description: Introduction - Material Design
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: images/logos/human_interface_guidelines.png
-          description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
+        - title: Everything
+          logo: 
+          url: https://www.voidtools.com/zh-cn/
+          description: 便携版
+          tags: 
+        - title: Listary
+          logo: 
+          url: http://www.listary.com/
+          description: 搜索工具
+          tags: 
+        - title: DropIt
+          logo: 
+          url: http://www.dropitproject.com/
+          description: 自定义文件分类
+          tags: 
+        - title: TablacusExplorer
+          logo: 
+          url: https://tablacus.github.io/explorer_en.html
+          description: 文件管理器
+          tags: 
+        - title: DeskGo（桌面整理）
+          logo: 
+          url: https://guanjia.qq.com/product/zmzl/
+          description: 腾讯电脑管家桌面整理
+          tags: 
+        - title: Coodesker（酷呆桌面）
+          logo: 
+          url: https://www.coodesker.com
+          description: 
+          tags: 
+        - title: Q-dir
+          logo: 
+          url: https://www.softwareok.eu/
+          description: 文件管理器，默认四个小窗口组成一个大窗口
+          tags: 
 
       
-    - term: 视频教程
+    - term: 局域网传输
       links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: images/logos/PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: images/logos/doyoudo.png
-          description: 创意设计软件学习平台
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: images/logos/web_ui_tutorial.png
-          description: WEB UI免费视频公开课
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: images/logos/imooc.png
-          description: 程序员的梦工厂（有UI课程）
+        - title: miniserve
+          logo: 
+          url: https://github.com/svenstaro/miniserve
+          description: HTTP传输
+          tags: 
+        - title: localsend
+          logo: 
+          url: https://github.com/localsend/localsend
+          description: 局域网传输
+          tags: 
+        - title: CuteHttpFileServer/chfs
+          logo: 
+          url: http://iscute.cn/chfs
+          description: 免费的、HTTP协议的文件共享服务器
+          tags: 
+        - title: 百灵快传(B0Pass)
+          logo: 
+          url: https://github.com/bitepeng/b0pass
+          description: 局域网共享文件
+          tags: 
+        - title: LANDrop
+          logo: 
+          url: https://github.com/LANDrop/LANDrop
+          description: 无安卓
         
-    - term: 设计文章
+    - term: 同步
       links:
-        - title: 优设网
-          url: http://www.uisdc.com/
-          logo: images/logos/uisdc.png
-          description: 设计师交流学习平台
-        - title: Web Design Ledger
-          url: https://webdesignledger.com
-          logo: images/logos/webdesignledger.png
-          description: Web Design Blog
-        - title: Medium
-          url: https://medium.com/
-          logo: images/logos/medium.png
-          description: Read, write and share stories that matter
-
-    - term: 设计电台
+        - title: FileGee
+          logo: 
+          url: http://cn.filegee.com/download.html
+          description: 免费版，同步软件
+          tags: 
+        - title: FreeFileSync
+          logo: 
+          url: https://freefilesync.org/
+          description: 开源，同步软件
+          tags: 
+        - title: GoodSync
+          logo: 
+          url: https://www.goodsync.com/cn
+          description: 收费，同步软件
+          tags: 
+        - title: SyncToy
+          logo: 
+          url: https://www.microsoft.com/en-us/download/details.aspx?id=15155
+          description: 微软出品，免费，2009年更新，不支持Win10
+          tags: 
+    - term: Win系统管理
       links:
-        - title: UX Coffee
-          url: http://uxcoffee.co/
-          logo: images/logos/uxcoffee.png
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-        - title: Anyway.FM
-          url: https://anyway.fm/
-          logo: images/logos/anyway.png
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-        - title: 异能电台
-          url: https://www.yineng.fm
-          logo: images/logos/yineng.png
-          description: 将全宇宙设计师的故事讲给你听。
-
+       - title: ExplorerPatcher
+         logo: 
+         url: https://github.com/valinet/ExplorerPatcher
+         description: 任务栏、开始菜单设置工具
+         tags: 
+        - title: PowerToys
+          logo: 
+          url: https://github.com/microsoft/PowerToys
+          description: 微软官方出品，丰富系统功能
+          tags: 
+        - title: 微PE工具箱
+          logo: 
+          url: http://www.wepe.com.cn/
+          description: WinPE装机维护工具
+          tags: 
+        - title: 云图工具箱
+          logo: 
+          url: https://wintool.cc/
+          description: 系统工具箱
+          tags: 
+        - title: 图吧工具箱
+          logo: 
+          url: http://www.tbtool.cn/
+          description: 电脑系统检测工具
+          tags: 
+        - title: 硬件狗狗（HDDog）
+          logo: 
+          url: http://yjgg.mydrivers.com/
+          description: 电脑硬件检测
+          tags: 
+        - title: Ventoy
+          logo: 
+          url: https://github.com/ventoy/Ventoy/releases
+          description: 开源，U盘启动盘制作，支持多系统，还能当普通U盘保存文件
+          tags: 
+        - title: Rufus
+          logo: 
+          url: https://github.com/pbatard/rufus
+          description: 开源，制作U盘启动盘
+          tags: 
+        - title: CnCrypt
+          logo: 
+          url: http://cncrypt.com/
+          description: 磁盘加密
+          tags: 
+        - title: CrystalDiskInfo
+          logo: 
+          url: https://crystalmark.info/en/
+          description: 专业硬盘检测
+          tags: 
+        - title: DiskGenius
+          logo: 
+          url: https://www.diskgenius.cn/
+          description: 硬盘管理
+          tags: 
+        - title: Windows超级管理器
+          logo: 
+          url: https://www.colithel.com/supermanager.html
+          description: 
+          tags: 
+        - title: Sophi
+          logo: 
+          url: https://github.com/Sophia-Community/SophiApp
+          description: 微调windows
+          tags: 
+        - title: WPD
+          logo: 
+          url: https://wpd.app/
+          description: Win10隐私设置工具
+          tags: 
+        - title: Optimizer
+          logo: 
+          url: https://github.com/hellzerg/optimizer
+          description: 系统优化
+          tags: 
+        - title: TurnedOnTimesView
+          logo: 
+          url: http://www.nirsoft.net/utils/computer_turned_on_times.html
+          description: 开关机时间、电脑持续使用时间、关机或重启的原因
+          tags: 
+        - title: FixWin
+          logo: 
+          url: http://www.dayanzai.me/fixwin-11.html
+          description: win11/10修复
+          tags: 
+        
+          
     - term: 交互设计
       links:
         - title: Little Big Details
