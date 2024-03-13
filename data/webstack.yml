@@ -300,8 +300,6 @@
           tags: 
       
    
-      
-
 - taxonomy: 办公相关
   icon: fa-palette
   list: 
@@ -544,7 +542,6 @@
           description: 文件管理器，默认四个小窗口组成一个大窗口
           tags: 
 
-      
     - term: 局域网传输
       links:
         - title: miniserve
@@ -681,9 +678,7 @@
           logo: 
           url: http://www.dayanzai.me/fixwin-11.html
           description: win11/10修复
-          tags: 
-
-       
+          tags:
           
     - term: 远程控制
       links:
@@ -744,6 +739,7 @@
           url: https://ccyixia.com/
           description: 复制两次，一键收藏
           tags: 
+
     - term: 预览
       links: 
       - title: QuickLook
@@ -761,6 +757,7 @@
         url: https://sourceforge.net/projects/ccseer/
         description: 预览，微软出品，
         tags: 
+        
     -term: 快捷启动
       - title: Wox
         logo: 
