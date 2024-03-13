@@ -20,7 +20,7 @@ copyright = "san-ren"
 
 #设置默认模式，true暗色模式，false亮色模式
 [params.darkmode]
-  enable = true
+  enable = false
 
 #主页菜单栏显示在线编辑按钮（编辑github文件，适用于自动化部署的情况）
 [params.edit]
