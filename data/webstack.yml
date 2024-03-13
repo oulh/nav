@@ -3,97 +3,7 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Honeyview
-      logo: 
-      url: http://www.bandisoft.com/honeyview/
-      description: 
-      tags: 
-    - title: ImageGlass
-      logo: 
-      url: https://imageglass.org/
-      description: 看图
-      tags: 
-    - title: PicView
-      logo: 
-      url: https://github.com/Ruben2776/PicView
-      description: 开源，看图
-      tags: 
-    - title: Snipaste
-      logo: 
-      url: https://zh.snipaste.com/
-      description: 截图+贴图，便携版、商店版
-      tags: 
-      tags: 
-    - title: Sniptool
-      logo: 
-      url: https://www.reasyze.com/Sniptool/
-      description: 便携，截图
-      tags: 
-    - title: PicPick
-      logo: 
-      url: https://picpick.app/zh/
-      description: 截图，个人免费使用
-      tags: 
-    - title: ShapeCollage
-      logo: 
-      url: http://www.shapecollage.com/
-      description: 图片拼图
-      tags: 
-    - title: iPhotoDraw
-      logo: 
-      url: http://www.iphotodraw.com/
-      description: 图片标注及编辑，便携版
-      tags: 
-    - title: Inpaint
-      logo: 
-      url: https://theinpaint.com/
-      description: 图片细节处理，网页版和PC端
-      tags: 
-    - title: XnConvert
-      logo: 
-      url: https://www.xnview.com/en/xnconvert/
-      description: 图片批量处理
-      tags: 
-    - title: 万得图片批量处理
-      logo: 
-      url: http://xcxzq.com/imagebat/
-      description: 
-      tags: 
-    - title: Waifu2x-Extension-GUI
-      logo: 
-      url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI
-      description: 静态图片，gif和视频放大清晰处理
-      tags: 
-    - title: 洋芋田图像工具箱
-      logo: 
-      url: https://imagetoolkit.potatofield.cn/
-      description: 图像工具箱
-      tags: 
-    - title: SETUNA2
-      logo: 
-      url: https://github.com/tylearymf/SETUNA2
-      description: 截图小工具（支持高分屏截图）
-      tags: 
-    - title: Screenote
-      logo: 
-      url: https://github.com/poerin/Screenote
-      description: 2021更新
-      tags: 
-    - title: verycapture
-      logo: 
-      url: https://verycapture.com/cn/index.html
-      description: 长截图、OCR、录屏
-      tags: 
-    - title: PixPin
-      logo: 
-      url: https://pixpinapp.com/
-      description: 长截图、贴图、OCR
-      tags: 
-    - title: eSearch
-      logo: 
-      url: https://github.com/xushengfeng/eSearch
-      description: 长截屏、离线OCR、搜索翻译、贴图、录屏
-      tags: 
+    
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
@@ -152,54 +62,151 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: 媒体
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 图片
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: Honeyview
+          logo: 
+          url: http://www.bandisoft.com/honeyview/
+          description: 
+          tags: 
+        - title: ImageGlass
+          logo: 
+          url: https://imageglass.org/
+          description: 看图
+          tags: 
+        - title: PicView
+          logo: 
+          url: https://github.com/Ruben2776/PicView
+          description: 开源，看图
+          tags: 
+        - title: Snipaste
+          logo: 
+          url: https://zh.snipaste.com/
+          description: 截图+贴图，便携版、商店版
+          tags: 
+          tags: 
+        - title: Sniptool
+          logo: 
+          url: https://www.reasyze.com/Sniptool/
+          description: 便携，截图
+          tags: 
+        - title: PicPick
+          logo: 
+          url: https://picpick.app/zh/
+          description: 截图，个人免费使用
+          tags: 
+        - title: ShapeCollage
+          logo: 
+          url: http://www.shapecollage.com/
+          description: 图片拼图
+          tags: 
+        - title: iPhotoDraw
+          logo: 
+          url: http://www.iphotodraw.com/
+          description: 图片标注及编辑，便携版
+          tags: 
+        - title: Inpaint
+          logo: 
+          url: https://theinpaint.com/
+          description: 图片细节处理，网页版和PC端
+          tags: 
+        - title: XnConvert
+          logo: 
+          url: https://www.xnview.com/en/xnconvert/
+          description: 图片批量处理
+          tags: 
+        - title: 万得图片批量处理
+          logo: 
+          url: http://xcxzq.com/imagebat/
+          description: 
+          tags: 
+        - title: Waifu2x-Extension-GUI
+          logo: 
+          url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+          description: 静态图片，gif和视频放大清晰处理
+          tags: 
+        - title: 洋芋田图像工具箱
+          logo: 
+          url: https://imagetoolkit.potatofield.cn/
+          description: 图像工具箱
+          tags: 
+        - title: SETUNA2
+          logo: 
+          url: https://github.com/tylearymf/SETUNA2
+          description: 截图小工具（支持高分屏截图）
+          tags: 
+        - title: Screenote
+          logo: 
+          url: https://github.com/poerin/Screenote
+          description: 2021更新
+          tags: 
+        - title: verycapture
+          logo: 
+          url: https://verycapture.com/cn/index.html
+          description: 长截图、OCR、录屏
+          tags: 
+        - title: PixPin
+          logo: 
+          url: https://pixpinapp.com/
+          description: 长截图、贴图、OCR
+          tags: 
+        - title: eSearch
+          logo: 
+          url: https://github.com/xushengfeng/eSearch
+          description: 长截屏、离线OCR、搜索翻译、贴图、录屏
+          tags: 
       
-    - term: 界面灵感
+    - term: 音乐
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: Mcool
+          logo: 
+          url: https://mcool.appinn.me/
+          description: 极简，开源，跨平台，本地音乐播放器
+          tags: 
+        - title: Winamp
+          logo: 
+          url: https://www.winamp.com/
+          description: 
+          tags: 
+          tags: 
+        - title: MusicPlayer2
+          logo: 
+          url: https://github.com/zhongyang219/MusicPlayer2
+          description: 音乐本地播放
+          tags: 
+        - title: Dopamine
+          logo: 
+          url: https://github.com/digimezzo/dopamine-windows
+          description: 音乐本地播放
+          tags: 
+        - title: Listen1
+          logo: 
+          url: https://github.com/listen1
+          description: PC、浏览器扩展、安卓、iOS，在线音乐播放
+          tags: 
+        - title: 洛雪音乐助手
+          logo: 
+          url: https://github.com/lyswhut/lx-music-desktop
+          description: 在线音乐播放，六音音源https://www.sixyin.com/8498.html
+          tags: 
+        - title: Music_Download
+          logo: 
+          url: https://www.52pojie.cn/thread-1181916-1-1.html
+          description: 
+          tags: 
+        - title: MusicFree
+          logo: 
+          url: http://musicfree.upup.fun/
+          description: 安卓、Windows，插件化音乐播放器，导入源
+          tags: 
+        - title: 方格音乐
+          logo: 
+          url: http://fonger.top/
+          description: 安卓（魔音）、Windows，在线播放
+          tags: 
       
     - term: 网页灵感
       links:
@@ -261,180 +268,123 @@
           description: A library of screenshots and examples of really good UX. Brought to you by
 
       
-- taxonomy: 素材资源
+- taxonomy: 下载
   icon: fa-thumbs-up
   list: 
-    - term: 图标素材
+    - term: B站下载
       links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: images/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: iconmonstr
-          logo: images/logos/iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
+        - title: bilix
+          logo: 
+          url: https://github.com/HFrost0/bilix
+          description: 异步下载
+          tags: 
+          tags: 
+        - title: 哔哩下载姬downkyi
+          logo: 
+          url: https://github.com/leiurayer/downkyi
+          description: up主合集和列表,个人收藏夹以及批量下载
+          tags: 
+        - title: Bilidown
+          logo: 
+          url: http://zhouql.vip/bilibili/pc/
+          description: 网页，单文件，安装版，批量下载up播放列表
+          tags: 
+        - title: 唧唧Down
+          logo: 
+          url: http://client.jijidown.com/
+          description: 都能解析，但不太好使
+          tags: 
       
-    - term: LOGO设计
+    - term: 微信公众号下载
       links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
-        - title: Instant Logo Search
-          logo: images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly
-
-    - term: 平面素材
+        - title: wechatDownload
+          logo: 
+          url: https://github.com/xiaoguyu/wechatDownload
+          description: 单篇、批量
+          tags: 
+        - title: 微信公众号文章批量下载工具
+          logo: 
+          url: https://github.com/qiye45/wechatDownload
+          description: 
+          tags: 
+        - title: wechatDownload
+          logo:
+          url: https://github.com/qiye45/wechatDownload
+          description:  微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
+        - title: WeChat_Article
+          logo: 
+          url: https://github.com/1061700625/WeChat_Article
+          description: 2023年6月停更
+          tags: 
+    - term: 网盘下载
       links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: images/logos/365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: Medialoot
-          logo: images/logos/Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot
-        - title: 千图网
-          logo: images/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: images/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
-        - title: 我图网
-          logo: images/logos/wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-        - title: 90设计
-          logo: images/logos/90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-        - title: 昵图网
-          logo: images/logos/nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台
-        - title: 懒人图库
-          logo: images/logos/lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载
-        - title: 素材搜索
-          logo: images/logos/sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合
-        - title: PS饭团网
-          logo: images/logos/psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: images/logos/sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台
-      
-    - term: UI资源
+        - title: 就是加速
+          logo: 
+          url: https://api.94speed.com/
+          description: 度盘加速
+          tags: 
+        - title: 小白羊网盘
+          logo: 
+          url: https://github.com/gaozhangmin/aliyunpan
+          description: 
+          tags: 
+        - title: 蜗牛云盘
+          logo: 
+          url: https://snail8.cn/html/index.html
+          description: 阿里云盘第三方
+          tags: 
+        - title: Raptor
+          logo:
+          url: https://github.com/InfpHub/Raptor
+          description: 第三方阿里云盘桌面应用客户端
+ 
+    - term: 一般下载
       links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
-        - title: 云瑞
-          logo: images/logos/yrucd.png
-          url: https://www.yrucd.com/
-          description: 优秀设计资源的分享网站
-        - title: Designmodo
-          logo: images/logos/Designmodo.png
-          url: https://designmodo.com/
-          description: Web Design Blog and Shop
-        - title: 稀土区
-          logo: images/logos/xituqu.png
-          url: https://xituqu.com/
-          description: 优质设计开发资源分享
-        - title: ui8
-          logo: images/logos/ui8.png
-          url: https://ui8.net/
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-        - title: uplabs
-          logo: images/logos/uplabs.png
-          url: https://www.uplabs.com/
-          description: Daily resources for product designers & developers
-        - title: UIkit.me
-          logo: images/logos/uikitme.png
-          url: http://www.uikit.me/
-          description: 最便捷新鲜的uikit资源下载网站
-        - title: Fribbble
-          logo: images/logos/Fribbble.png
-          url: http://www.fribbble.com/
-          description: Free PSD files and other free design resources by Dribbblers.
-        - title: PrincipleRepo
-          logo: images/logos/PrincipleRepo.png
-          url: http://principlerepo.com/
-          description: Free, High Quality Principle Resources
+        - title: FDM
+          logo: 
+          url: https://www.freedownloadmanager.org/zh/
+          description: 开源
+          tags: 
+        - title: NDM
+          logo: 
+          url: http://www.neatdownloadmanager.com/index.php/en/
+          description: 支持浏览器扩展
+          tags: 
+        - title: XDM
+          logo: 
+          url: https://github.com/subhra74/xdm
+          description: 支持浏览器扩展
+          tags: 
+        - title: BitComet
+          logo: 
+          url: https://www.bitcomet.com/cn
+          description: 磁力、种子
+          tags: 
+        - title: qBittorrent
+          logo: 
+          url: https://www.qbittorrent.org/
+          description: 开源，轻量级BitTorrent客户端
+          tags: 
+        - title: Motrix
+          logo: 
+          url: https://github.com/agalwood/Motrix
+          description: 开源，支持下载HTTP、FTP、BT、磁力链接等资源
+          tags: 
+        - title: Qdown
+          logo: 
+          url: http://lightzhan.xyz/index.php/qdown/
+          description: 支持迅雷链接、磁力下载、BT、FTP、SFTP、HTTP、HTTPS下载协议，基于Aria2的Windows文件下载器
+          tags: 
+        - title: Gopeed
+          logo: 
+          url: https://gopeed.com/zh-CN
+          description: 开源、支持HTTP、BitTorrent、Magnet
+          tags: 
+        - title: 文件蜈蚣
+          logo: 
+          url: https://www.filecxx.com/zh_CN/
+          description: 全能，http、磁力，浏览器扩展，资源嗅探
+          tags: 
       
     - term: Sketch资源
       links:
