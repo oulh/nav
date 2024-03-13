@@ -3,45 +3,97 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: 测试
+    - title: Honeyview
       logo: 
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
+      url: http://www.bandisoft.com/honeyview/
+      description: 
+      tags: 
+    - title: ImageGlass
       logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
-      logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
+      url: https://imageglass.org/
+      description: 看图
+      tags: 
+    - title: PicView
       logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
+      url: https://github.com/Ruben2776/PicView
+      description: 开源，看图
+      tags: 
+    - title: Snipaste
+      logo: 
+      url: https://zh.snipaste.com/
+      description: 截图+贴图，便携版、商店版
+      tags: 
+      tags: 
+    - title: Sniptool
+      logo: 
+      url: https://www.reasyze.com/Sniptool/
+      description: 便携，截图
+      tags: 
+    - title: PicPick
+      logo: 
+      url: https://picpick.app/zh/
+      description: 截图，个人免费使用
+      tags: 
+    - title: ShapeCollage
+      logo: 
+      url: http://www.shapecollage.com/
+      description: 图片拼图
+      tags: 
+    - title: iPhotoDraw
+      logo: 
+      url: http://www.iphotodraw.com/
+      description: 图片标注及编辑，便携版
+      tags: 
+    - title: Inpaint
+      logo: 
+      url: https://theinpaint.com/
+      description: 图片细节处理，网页版和PC端
+      tags: 
+    - title: XnConvert
+      logo: 
+      url: https://www.xnview.com/en/xnconvert/
+      description: 图片批量处理
+      tags: 
+    - title: 万得图片批量处理
+      logo: 
+      url: http://xcxzq.com/imagebat/
+      description: 
+      tags: 
+    - title: Waifu2x-Extension-GUI
+      logo: 
+      url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+      description: 静态图片，gif和视频放大清晰处理
+      tags: 
+    - title: 洋芋田图像工具箱
+      logo: 
+      url: https://imagetoolkit.potatofield.cn/
+      description: 图像工具箱
+      tags: 
+    - title: SETUNA2
+      logo: 
+      url: https://github.com/tylearymf/SETUNA2
+      description: 截图小工具（支持高分屏截图）
+      tags: 
+    - title: Screenote
+      logo: 
+      url: https://github.com/poerin/Screenote
+      description: 2021更新
+      tags: 
+    - title: verycapture
+      logo: 
+      url: https://verycapture.com/cn/index.html
+      description: 长截图、OCR、录屏
+      tags: 
+    - title: PixPin
+      logo: 
+      url: https://pixpinapp.com/
+      description: 长截图、贴图、OCR
+      tags: 
+    - title: eSearch
+      logo: 
+      url: https://github.com/xushengfeng/eSearch
+      description: 长截屏、离线OCR、搜索翻译、贴图、录屏
+      tags: 
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
