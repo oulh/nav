@@ -5,16 +5,81 @@
   links: 
     - title: 小田田
       url: https://xydh.fun/xiaotiantian
-      description: 汇总导航
+      description: 汇总导航,你想要的都有
     
 
-- taxonomy: 
+- taxonomy: 日常
   icon: fa-regular fa-newspaper
   links: 
+    - title: 7-zip
+      logo: 
+      url: https://www.7-zip.org/
+      description: 经典压缩软件
+    - title: Chrome
+      logo: 
+      url: https://www.google.com/intl/zh-CN/chrome/
+      description: 
+    - title: 微信
+      logo: 
+      url: https://pc.weixin.qq.com/
+      description: 
+    - title: TIM
+      logo: 
+      url: https://office.qq.com/download.html
+      description: 
+    - title: LiteLoaderQQNT
+      logo: 
+      url: https://liteloaderqqnt.github.io/
+      description: QQNT 插件加载器
+    - title: Telegram
+      logo: 
+      url: https://desktop.telegram.org/
+      description: 电报，tg
+    - title: Python
+      logo: 
+      url: https://www.python.org/downloads/windows/
+      description: 
+    - title: Visual Studio Code
+      logo: 
+      url: https://code.visualstudio.com/Download
+      description: 微软出品
+    - title: Git
+      logo: 
+      url: https://git-scm.com/download/win
+      description: 
+    - title: Potplayer
+      logo: 
+      url: https://potplayer.app/?lang=zh_CN
+      description: 经典音视频播放器，强大无疑
+    - title: Honeyview-蜂蜜浏览器
+      logo: 
+      url: http://www.bandisoft.com/honeyview/
+      description: 与Bandizip同宗，2024发布新版Bandiview v7.0,免费版有广告
+    - title: SumatraPDF
+      logo: 
+      url: https://www.sumatrapdfreader.org/download-free-pdf-viewer
+      description: 
     - title: 
       logo: 
       url: 
       description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+
 
     
 
@@ -235,6 +300,17 @@
           logo:
           url: https://github.com/InfpHub/Raptor
           description: 第三方阿里云盘桌面应用客户端
+
+    - term: 视频下载
+      links: 
+        - title: CRTubeGet
+          logo: 
+          url: https://www.cr-soft.net/crtubeget.html
+          description: 全网视频下载工具
+        - title: WebTorrent
+          logo: 
+          url: https://webtorrent.io/
+          description: 磁力播放，浏览器使用不需扩展
  
     - term: 一般下载
       links:
@@ -258,6 +334,10 @@
           logo:  
           url: https://github.com/lstprjct/IDM-Activation-Script
           description: 6k star,IDM激活和跟踪重置脚本，一行代码激活IDM
+        - title: PikPak
+          logo: 
+          url: https://mypikpak.com/zh-CN
+          description: 新加坡网盘，非会员6G空间，可离线、磁力，下载不限速，可刷会员
         - title: BitComet
           logo: 
           url: https://www.bitcomet.com/cn
@@ -305,6 +385,10 @@
           logo: 
           url: https://github.com/blackboxo/CleanMyWechat
           description: 开源，自动删除PC微信缓存数据
+        - title: MemReduct
+          logo: 
+          url: https://www.henrypp.org/product/memreduct
+          description: 开源，内存清理
         - title: dupeGuru
           logo: 
           url: https://dupeguru.voltaicideas.net/
@@ -549,6 +633,10 @@
           logo: 
           url: http://www.wepe.com.cn/
           description: WinPE装机维护工具
+        - title: Dism++
+          logo: 
+          url: https://github.com/Chuyu-Team/Dism-Multi-language
+          description: 经典强大工具
         - title: 云图工具箱
           logo: 
           url: https://wintool.cc/
@@ -607,7 +695,11 @@
           description: win11/10修复
   
     - term: 远程控制
-      links:
+      links: 
+        - title: ToDesk
+          logo: 
+          url: https://www.todesk.com/download.html
+          description: 
         - title: HiPC移动助手
           logo: 
           url: https://hipc.cn/
@@ -751,10 +843,14 @@
           logo: 
           url: https://github.com/File-New-Project/EarTrumpet
           description: 开源，声音输出管
-        - title:
-          logo: 
-          url:
+        - title: Alt-Tab Terminator
+          logo: 替换系统 Alt-Tab 对话框，简洁直观
+          url: https://www.ntwind.com/software/alttabter.html
           description:
+        - title: CapsCursor
+          logo: 
+          url: http://xxyx.ysepan.com/
+          description: 在光标旁边提示处于中文或英文
         - title: TrafficMonitor
           logo: 
           url: https://github.com/zhongyang219/TrafficMonitor
