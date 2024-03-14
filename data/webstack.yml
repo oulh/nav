@@ -302,7 +302,7 @@
           logo: 
           url: https://copytranslator.github.io/
           description: 翻译工具
-      
+  
     - term: OCR
       links:
         - title: 天若OCR
@@ -465,7 +465,7 @@
           logo: 
           url: https://github.com/LANDrop/LANDrop
           description: 无安卓
-        
+  
     - term: 同步
       links:
         - title: FileGee
@@ -484,7 +484,7 @@
           logo: 
           url: https://www.microsoft.com/en-us/download/details.aspx?id=15155
           description: 微软出品，免费，2009年更新，不支持Win10
-          
+  
     - term: Win系统管理
       links:
         - title: ExplorerPatcher
@@ -555,7 +555,7 @@
           logo: 
           url: http://www.dayanzai.me/fixwin-11.html
           description: win11/10修复
-          
+  
     - term: 远程控制
       links:
         - title: HiPC移动助手
