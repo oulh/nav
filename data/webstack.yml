@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 看了不吃亏，不看别后悔
   icon: fa-star
   links: 
     - title: 小田田
@@ -8,13 +8,13 @@
       description: 汇总导航
     
 
-- taxonomy: 社区咨询
+- taxonomy: 
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: 
+      logo: 
+      url: 
+      description: 
 
     
 
