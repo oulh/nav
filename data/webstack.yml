@@ -30,7 +30,7 @@
         - title: ZyPlayer
           logo: 
           url: https://github.com/Hiram-Wong/ZyPlayer
-          description: 跨平台桌面端视频资源播放器,免费高颜值
+          description: 原ZY Player停更，此为3.1k Star后来者
         - title: 荐片播放器
           logo: 
           url: https://www.jianpian8.com/
@@ -45,46 +45,50 @@
         - title: Winamp
           logo: 
           url: https://www.winamp.com/
-          description: 
+          description: 老牌播放器
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
-          description: 音乐本地播放
+          description: 4k star,音乐本地播放，歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等
         - title: Dopamine
           logo: 
           url: https://github.com/digimezzo/dopamine-windows
-          description: 音乐本地播放
+          description: 1.7k star,简约本地音乐播放器
         - title: Listen1
           logo: 
           url: https://github.com/listen1
-          description: PC、浏览器扩展、安卓、iOS，在线音乐播放
+          description: 9.3k star,PC、浏览器扩展、安卓、iOS，在线音乐播放
         - title: 洛雪音乐助手
           logo: 
           url: https://github.com/lyswhut/lx-music-desktop
-          description: 在线音乐播放，六音音源https://www.sixyin.com/8498.html
+          description: 35.6k star,在线音乐播放，
+        - title: 六音音源
+          logo:
+          url: https://www.sixyin.com/8498.html
+          description:
         - title: Music_Download
           logo: 
-          url: https://www.52pojie.cn/thread-1181916-1-1.html
-          description: 
+          url: https://java-syj.feishu.cn/wiki/DBqIwuJ1ji228ike4necim4cnDg
+          description: 2021停更，基于python，网易云，QQ音乐，酷狗音乐在线播放和下载
         - title: MusicFree
           logo: 
-          url: http://musicfree.upup.fun/
-          description: 安卓、Windows，插件化音乐播放器，导入源
+          url: https://github.com/maotoumao
+          description: 5.1k/1.7k star,安卓、Windows、macos，插件化、定制化、无广告的免费音乐播放器
         - title: 方格音乐
           logo: 
           url: http://fonger.top/
-          description: 安卓（魔音）、Windows，在线播放
+          description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
 
     - term: 图片
       links: 
-        - title: Honeyview
+        - title: Honeyview-蜂蜜浏览器
           logo: 
           url: http://www.bandisoft.com/honeyview/
-          description: 
+          description: 与Bandizip同宗，2024发布新版Bandiview v7.0,免费版有广告
         - title: ImageGlass
           logo: 
           url: https://imageglass.org/
-          description: 看图
+          description: 看图，提供中文语言包
         - title: PicView
           logo: 
           url: https://github.com/Ruben2776/PicView
@@ -92,23 +96,31 @@
         - title: Snipaste
           logo: 
           url: https://zh.snipaste.com/
-          description: 截图+贴图，便携版、商店版
-        - title: Sniptool
+          description: 截图+贴图，便携版、商店版，长截图需专业版
+        - title: PixPin
           logo: 
-          url: https://www.reasyze.com/Sniptool/
-          description: 便携，截图
+          url: https://pixpinapp.com/
+          description: 长截图、贴图、OCR、GIF，2023新兴软件，Snipaste专业版平替
         - title: PicPick
           logo: 
           url: https://picpick.app/zh/
           description: 截图，个人免费使用
+        - title: eSearch
+          logo: 
+          url: https://github.com/xushengfeng/eSearch
+          description: 2.8k star,长截屏、离线OCR、搜索翻译、贴图、录屏
+        - title: SETUNA2
+          logo: 
+          url: https://github.com/tylearymf/SETUNA2
+          description: 截图小工具（支持高分屏截图），个人接管
         - title: ShapeCollage
           logo: 
           url: http://www.shapecollage.com/
-          description: 图片拼图
+          description: 图片拼接
         - title: iPhotoDraw
           logo: 
           url: http://www.iphotodraw.com/
-          description: 图片标注及编辑，便携版
+          description: 图片标注及元信息编辑，便携版
         - title: Inpaint
           logo: 
           url: https://theinpaint.com/
@@ -129,26 +141,34 @@
           logo: 
           url: https://imagetoolkit.potatofield.cn/
           description: 图像工具箱
-        - title: SETUNA2
+        - title: Sniptool
           logo: 
-          url: https://github.com/tylearymf/SETUNA2
-          description: 截图小工具（支持高分屏截图）
+          url: https://www.reasyze.com/Sniptool/
+          description: 便携，截图，2020停更
         - title: Screenote
           logo: 
           url: https://github.com/poerin/Screenote
-          description: 2021更新
+          description: 2021停更
         - title: verycapture
           logo: 
           url: https://verycapture.com/cn/index.html
-          description: 长截图、OCR、录屏
-        - title: PixPin
+          description: 付费，老牌软件，长截图、OCR、录屏，可去portableapps.com或portablefreeware.com下载便携版
+
+    - term: 录屏、GIF
+      links: 
+        - title: ScreenToGif
           logo: 
-          url: https://pixpinapp.com/
-          description: 长截图、贴图、OCR
-        - title: eSearch
+          url: https://www.screentogif.com/?l=zh_cn#
+          description: 开源，商店版
+        - title: Gifcam
           logo: 
-          url: https://github.com/xushengfeng/eSearch
-          description: 长截屏、离线OCR、搜索翻译、贴图、录屏
+          url: http://blog.bahraniapps.com/gifcam/
+          description: GIF录制编辑软件
+        - title: EV录屏
+          logo: 
+          url: https://www.ieway.cn/evcapture.html
+          description: 
+
       
     
       
@@ -257,6 +277,14 @@
   list: 
     - term: 小
       links:
+        - title: Geek
+          logo: 
+          url: https://geekuninstaller.com/
+          description: 免费版，单文件,软件卸载
+        - title: HiBit Uninstaller
+          logo:
+          url: https://www.hibitsoft.ir/
+          description: 免费，单文件,软件卸载,支持中文
         - title: RevokeMsgPatcher
           logo: 
           url: https://github.com/huiyadanli/RevokeMsgPatcher
@@ -269,6 +297,30 @@
           logo: 
           url: https://dupeguru.voltaicideas.net/
           description: 重复文件查找
+        - title: 菲菲更名宝贝
+          logo: 
+          url: http://www.ffhome.com/works/1406.html
+          description: 
+        - title: zTasker
+          logo: 
+          url: http://www.everauto.net/cn/index.html
+          description: 设定任务自动执行
+        - title: ShutterPro
+          logo: 
+          url: http://www.den4b.com/wiki/Shutter
+          description: 定时执行工具，功能繁多
+        - title: 彩虹工具箱
+          logo: 
+          url: https://rainbowbyte.com/app/rainbowtoolbox.html
+          description: 乱七八糟工具集
+        - title: 万彩办公大师OfficeBox
+          logo: 
+          url: http://www.wofficebox.com/
+          description: 绿色版、全套离线包
+        - title: Sandboxie
+          logo: 
+          url: https://github.com/sandboxie-plus/Sandboxie
+          description: 开源
 
     - term: 翻译
       links:
@@ -400,6 +452,10 @@
           logo: 
           url: https://www.voidtools.com/zh-cn/
           description: 便携版
+        - title: SpaceSniffer
+          logo: 
+          url: http://www.uderzo.it/main_products/space_sniffer/
+          description: 空间嗅探
         - title: Listary
           logo: 
           url: http://www.listary.com/
