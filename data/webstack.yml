@@ -93,6 +93,10 @@
           logo: 
           url: https://github.com/Ruben2776/PicView
           description: 开源，看图
+        - title: 全屏看图
+          logo: 
+          url: http://www.o345.com/gengxin-log/632.html
+          description: 流式看图
         - title: Snipaste
           logo: 
           url: https://zh.snipaste.com/
@@ -246,6 +250,14 @@
           logo: 
           url: https://github.com/subhra74/xdm
           description: 支持浏览器扩展
+        - title: IDM
+          logo: 
+          url: https://www.internetdownloadmanager.com/
+          description: 地位不言而喻
+        - title: IDM-Activation-Script
+          logo:  
+          url: https://github.com/lstprjct/IDM-Activation-Script
+          description: 6k star,IDM激活和跟踪重置脚本，一行代码激活IDM
         - title: BitComet
           logo: 
           url: https://www.bitcomet.com/cn
@@ -716,63 +728,72 @@
 
 - taxonomy: 桌面美化
   icon: fa-user-group
-  links:  
-    - title: TranslucentTB
-      logo: 
-      url: https://github.com/TranslucentTB/TranslucentTB
-      description: 任务栏透明、美
-    - title: TaskbarTools
-      logo: 
-      url: https://github.com/Elestriel/TaskbarTools
-      description: 任务栏透明、美
-    - title: Wifinian
-      logo: 
-      url: https://github.com/emoacht/Wifinian
-      description: 开源，商店版，WiFi管
-    - title: ModernFlyouts
-      logo: 
-      url: https://github.com/ModernFlyouts-Community/ModernFlyouts
-      description: 开源，商店版，音量管
-    - title: EarTrumpet
-      logo: 
-      url: https://github.com/File-New-Project/EarTrumpet
-      description: 开源，声音输出管
-    - title: TrafficMonitor
-      logo: 
-      url: https://github.com/zhongyang219/TrafficMonitor
-      description: 监控悬浮
-    - title: StartMenuX
-      logo: 
-      url: https://www.startmenux.com/zh-cn/
-      description: 免费版，开始菜单win7
-    - title: Splashy
-      logo: 
-      url: https://splashy.art/
-      description: 自动换壁纸，壁纸源自Unsplas
-    - title: upupoo
-      logo: 
-      url: http://www.upupoo.com
-      description: 动态壁纸，全平
-    - title: 火萤
-      logo: 
-      url: http://www.huoying666.com/
-      description: 动态壁纸，全平
-    - title: FliqloScreenSaver
-      logo: 
-      url: https://fliqlo.com/
-      description: 翻页时间屏
-    - title: ScreensaversPlanes
-      logo: 
-      url: https://www.screensaversplanet.com/screensavers/
-      description: 屏保合
-    - title: WallpaperEngine
-      logo: 
-      url: https://www.wallpaperengine.io/
-      description: Steam购
-    - title: Rainmete（雨滴桌面）
-      logo: 
-      url: https://www.rainmeter.net/
-      description: 桌面美化工具，添加挂
+  list:
+    - term: 细节
+      links:  
+        - title: TranslucentTB
+          logo: 
+          url: https://github.com/TranslucentTB/TranslucentTB
+          description: 任务栏透明、美
+        - title: TaskbarTools
+          logo: 
+          url: https://github.com/Elestriel/TaskbarTools
+          description: 任务栏透明、美
+        - title: Wifinian
+          logo: 
+          url: https://github.com/emoacht/Wifinian
+          description: 开源，商店版，WiFi管
+        - title: ModernFlyouts
+          logo: 
+          url: https://github.com/ModernFlyouts-Community/ModernFlyouts
+          description: 开源，商店版，音量管
+        - title: EarTrumpet
+          logo: 
+          url: https://github.com/File-New-Project/EarTrumpet
+          description: 开源，声音输出管
+        - title:
+          logo: 
+          url:
+          description:
+        - title: TrafficMonitor
+          logo: 
+          url: https://github.com/zhongyang219/TrafficMonitor
+          description: 监控悬浮
+        - title: StartMenuX
+          logo: 
+          url: https://www.startmenux.com/zh-cn/
+          description: 免费版，开始菜单win7
+
+    - term: 壁纸
+      links: 
+        - title: Splashy
+          logo: 
+          url: https://splashy.art/
+          description: 自动换壁纸，壁纸源自Unsplas
+        - title: upupoo
+          logo: 
+          url: http://www.upupoo.com
+          description: 动态壁纸，全平
+        - title: 火萤
+          logo: 
+          url: http://www.huoying666.com/
+          description: 动态壁纸，全平台
+        - title: FliqloScreenSaver
+          logo: 
+          url: https://fliqlo.com/
+          description: 翻页时间屏保
+        - title: ScreensaversPlanes
+          logo: 
+          url: https://www.screensaversplanet.com/screensavers/
+          description: 屏保合集
+        - title: WallpaperEngine
+          logo: 
+          url: https://www.wallpaperengine.io/
+          description: Steam购买
+        - title: Rainmete（雨滴桌面）
+          logo: 
+          url: https://www.rainmeter.net/
+          description: 桌面美化工具，添加挂件
 
           
 
