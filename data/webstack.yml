@@ -346,6 +346,10 @@
           logo: 
           url: https://www.qbittorrent.org/
           description: 开源，轻量级BitTorrent客户端
+        - title: qBittorrent Enhanced
+          logo: 
+          url: https://github.com/c0re100/qBittorrent-Enhanced-Edition
+          description: 16.5K star,qBittorrent 增强版
         - title: Motrix
           logo: 
           url: https://github.com/agalwood/Motrix
