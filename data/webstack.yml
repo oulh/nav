@@ -2,7 +2,7 @@
 
 - taxonomy: 常用推荐
   icon: fa-star
-  links:
+  links: 
     - title: 小田田
       url: https://xydh.fun/xiaotiantian
       description: 汇总导航
@@ -22,7 +22,7 @@
   icon: fa-regular fa-lightbulb
   list: 
     - term: 影视
-      links:
+      links: 
         - title: Miru
           logo: 
           url: https://miru.js.org/
@@ -37,55 +37,46 @@
           description: 全平台，无网页，专治迅雷被封链接
 
     - term: 音乐
-      links:
+      links: 
         - title: Mcool
           logo: 
           url: https://mcool.appinn.me/
           description: 极简，开源，跨平台，本地音乐播放器
-          tags: 
         - title: Winamp
           logo: 
           url: https://www.winamp.com/
           description: 
-          tags:
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
           description: 音乐本地播放
-          tags: 
         - title: Dopamine
           logo: 
           url: https://github.com/digimezzo/dopamine-windows
           description: 音乐本地播放
-          tags: 
         - title: Listen1
           logo: 
           url: https://github.com/listen1
           description: PC、浏览器扩展、安卓、iOS，在线音乐播放
-          tags: 
         - title: 洛雪音乐助手
           logo: 
           url: https://github.com/lyswhut/lx-music-desktop
           description: 在线音乐播放，六音音源https://www.sixyin.com/8498.html
-          tags: 
         - title: Music_Download
           logo: 
           url: https://www.52pojie.cn/thread-1181916-1-1.html
           description: 
-          tags: 
         - title: MusicFree
           logo: 
           url: http://musicfree.upup.fun/
           description: 安卓、Windows，插件化音乐播放器，导入源
-          tags: 
         - title: 方格音乐
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放
-          tags: 
 
     - term: 图片
-      links:
+      links: 
         - title: Honeyview
           logo: 
           url: http://www.bandisoft.com/honeyview/
@@ -98,11 +89,6 @@
           logo: 
           url: https://github.com/Ruben2776/PicView
           description: 开源，看图
-          tags: 
-        - title:
-          logo: 
-          url: 
-          description:
         - title: Snipaste
           logo: 
           url: https://zh.snipaste.com/
@@ -189,7 +175,7 @@
           description: 都能解析，但不太好使
       
     - term: 微信公众号下载
-      links:
+      links: 
         - title: wechatDownload
           logo: 
           url: https://github.com/xiaoguyu/wechatDownload
@@ -608,17 +594,14 @@
           logo: 
           url: http://pooi.moe/QuickLook/
           description: 开源，商店版
-          tags: 
         - title: 火柴
           logo: 
           url: https://www.huochaipro.com/
           description: 
-          tags: 
         - title: seer
           logo: 
           url: https://sourceforge.net/projects/ccseer/
           description: 预览，微软出品，
-          tags: 
           
     - term: 快捷启动
       links: 
@@ -626,27 +609,22 @@
           logo: 
           url: http://www.wox.one/
           description: 开源，快捷启动工具
-          tags: 
         - title: nTrun
           logo: 
           url: https://www.ntrun.com/index.html
           description: 快速启动工具
-          tags: 
         - title: Maya
           logo: 
           url: https://github.com/25H/Maya/releases
           description: 快速启动
-          tags: 
         - title: Lucy
           logo: 
           url: https://www.52pojie.cn/thread-1624289-1-1.html
           description: 吾爱破解出品，绿色免安装
-          tags: 
         - title: ​Quicker
           logo: 
           url: https://getquicker.net/
           description: 
-          tags: 
 
     -term: 鼠标手势
       links: 
@@ -654,37 +632,30 @@
           logo: 
           url: https://github.com/vhanla/winxcorners/
           description: 开源，添加触发角功能
-          tags: 
         - title: Wheel
           logo: 
           url: https://github.com/majorworld/Wheel
           description: 24个屏幕边缘触发器
-          tags: 
         - title: MouseInc
           logo: 
           url: https://shuax.com/
           description: 鼠标增强工具，小巧，鼠标手势及增强功能
-          tags: 
         - title: Wgestures
           logo: 
           url: http://www.yingdev.com/projects/wgestures
           description: 开源，全局鼠标手势
-          tags: 
         - title: MousePlus
           logo: 
           url: https://gitee.com/majorworld/mouseplus
           description: 鼠标手势软件，内置可视化脚本编辑器
-          tags: 
         - title: Stroke
           logo: 
           url: https://github.com/poerin/Stroke
           description: 鼠标手势，无四角手势，支持中文？
-          tags: 
         - title: OneQuick
           logo: 
           url: https://onequick.org/
           description: 快捷键工具
-          tags: 
        
 
 - taxonomy: 桌面美化
