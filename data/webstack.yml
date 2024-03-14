@@ -27,92 +27,74 @@
           logo: 
           url: http://www.bandisoft.com/honeyview/
           description: 
-          tags: 
         - title: ImageGlass
           logo: 
           url: https://imageglass.org/
           description: 看图
-          tags: 
         - title: PicView
           logo: 
           url: https://github.com/Ruben2776/PicView
           description: 开源，看图
-          tags: 
         - title: Snipaste
           logo: 
           url: https://zh.snipaste.com/
           description: 截图+贴图，便携版、商店版
-          tags: 
         - title: Sniptool
           logo: 
           url: https://www.reasyze.com/Sniptool/
           description: 便携，截图
-          tags: 
         - title: PicPick
           logo: 
           url: https://picpick.app/zh/
           description: 截图，个人免费使用
-          tags: 
         - title: ShapeCollage
           logo: 
           url: http://www.shapecollage.com/
           description: 图片拼图
-          tags: 
         - title: iPhotoDraw
           logo: 
           url: http://www.iphotodraw.com/
           description: 图片标注及编辑，便携版
-          tags: 
         - title: Inpaint
           logo: 
           url: https://theinpaint.com/
           description: 图片细节处理，网页版和PC端
-          tags: 
         - title: XnConvert
           logo: 
           url: https://www.xnview.com/en/xnconvert/
           description: 图片批量处理
-          tags: 
         - title: 万得图片批量处理
           logo: 
           url: http://xcxzq.com/imagebat/
           description: 
-          tags: 
         - title: Waifu2x-Extension-GUI
           logo: 
           url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI
           description: 静态图片，gif和视频放大清晰处理
-          tags: 
         - title: 洋芋田图像工具箱
           logo: 
           url: https://imagetoolkit.potatofield.cn/
           description: 图像工具箱
-          tags: 
         - title: SETUNA2
           logo: 
           url: https://github.com/tylearymf/SETUNA2
           description: 截图小工具（支持高分屏截图）
-          tags: 
         - title: Screenote
           logo: 
           url: https://github.com/poerin/Screenote
           description: 2021更新
-          tags: 
         - title: verycapture
           logo: 
           url: https://verycapture.com/cn/index.html
           description: 长截图、OCR、录屏
-          tags: 
         - title: PixPin
           logo: 
           url: https://pixpinapp.com/
           description: 长截图、贴图、OCR
-          tags: 
         - title: eSearch
           logo: 
           url: https://github.com/xushengfeng/eSearch
           description: 长截屏、离线OCR、搜索翻译、贴图、录屏
-          tags: 
       
     - term: 音乐
       links:
@@ -120,47 +102,38 @@
           logo: 
           url: https://mcool.appinn.me/
           description: 极简，开源，跨平台，本地音乐播放器
-          tags: 
         - title: Winamp
           logo: 
           url: https://www.winamp.com/
           description: 
-          tags: 
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
           description: 音乐本地播放
-          tags: 
         - title: Dopamine
           logo: 
           url: https://github.com/digimezzo/dopamine-windows
           description: 音乐本地播放
-          tags: 
         - title: Listen1
           logo: 
           url: https://github.com/listen1
           description: PC、浏览器扩展、安卓、iOS，在线音乐播放
-          tags: 
         - title: 洛雪音乐助手
           logo: 
           url: https://github.com/lyswhut/lx-music-desktop
           description: 在线音乐播放，六音音源https://www.sixyin.com/8498.html
-          tags: 
         - title: Music_Download
           logo: 
           url: https://www.52pojie.cn/thread-1181916-1-1.html
           description: 
-          tags: 
         - title: MusicFree
           logo: 
           url: http://musicfree.upup.fun/
           description: 安卓、Windows，插件化音乐播放器，导入源
-          tags: 
         - title: 方格音乐
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放
-          tags: 
 
       
 - taxonomy: 下载
@@ -172,22 +145,18 @@
           logo: 
           url: https://github.com/HFrost0/bilix
           description: 异步下载
-          tags: 
         - title: 哔哩下载姬downkyi
           logo: 
           url: https://github.com/leiurayer/downkyi
           description: up主合集和列表,个人收藏夹以及批量下载
-          tags: 
         - title: Bilidown
           logo: 
           url: http://zhouql.vip/bilibili/pc/
           description: 网页，单文件，安装版，批量下载up播放列表
-          tags: 
         - title: 唧唧Down
           logo: 
           url: http://client.jijidown.com/
           description: 都能解析，但不太好使
-          tags: 
       
     - term: 微信公众号下载
       links:
@@ -195,44 +164,37 @@
           logo: 
           url: https://github.com/xiaoguyu/wechatDownload
           description: 单篇、批量
-          tags: 
         - title: 微信公众号文章批量下载工具
           logo: 
           url: https://github.com/qiye45/wechatDownload
           description: 
-          tags: 
         - title: wechatDownload
           logo:
           url: https://github.com/qiye45/wechatDownload
           description:  微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
-          tags: 
         - title: WeChat_Article
           logo: 
           url: https://github.com/1061700625/WeChat_Article
           description: 2023年6月停更
-          tags: 
+
     - term: 网盘下载
       links:
         - title: 就是加速
           logo: 
           url: https://api.94speed.com/
           description: 度盘加速
-          tags: 
         - title: 小白羊网盘
           logo: 
           url: https://github.com/gaozhangmin/aliyunpan
           description: 
-          tags: 
         - title: 蜗牛云盘
           logo: 
           url: https://snail8.cn/html/index.html
           description: 阿里云盘第三方
-          tags: 
         - title: Raptor
           logo:
           url: https://github.com/InfpHub/Raptor
           description: 第三方阿里云盘桌面应用客户端
-          tags: 
  
     - term: 一般下载
       links:
@@ -240,47 +202,38 @@
           logo: 
           url: https://www.freedownloadmanager.org/zh/
           description: 开源
-          tags: 
         - title: NDM
           logo: 
           url: http://www.neatdownloadmanager.com/index.php/en/
           description: 支持浏览器扩展
-          tags: 
         - title: XDM
           logo: 
           url: https://github.com/subhra74/xdm
           description: 支持浏览器扩展
-          tags: 
         - title: BitComet
           logo: 
           url: https://www.bitcomet.com/cn
           description: 磁力、种子
-          tags: 
         - title: qBittorrent
           logo: 
           url: https://www.qbittorrent.org/
           description: 开源，轻量级BitTorrent客户端
-          tags: 
         - title: Motrix
           logo: 
           url: https://github.com/agalwood/Motrix
           description: 开源，支持下载HTTP、FTP、BT、磁力链接等资源
-          tags: 
         - title: Qdown
           logo: 
           url: http://lightzhan.xyz/index.php/qdown/
           description: 支持迅雷链接、磁力下载、BT、FTP、SFTP、HTTP、HTTPS下载协议，基于Aria2的Windows文件下载器
-          tags: 
         - title: Gopeed
           logo: 
           url: https://gopeed.com/zh-CN
           description: 开源、支持HTTP、BitTorrent、Magnet
-          tags: 
         - title: 文件蜈蚣
           logo: 
           url: https://www.filecxx.com/zh_CN/
           description: 全能，http、磁力，浏览器扩展，资源嗅探
-          tags: 
       
    
 - taxonomy: 办公相关
@@ -292,17 +245,14 @@
           logo: 
           url: https://github.com/huiyadanli/RevokeMsgPatcher
           description: 微信/QQ/TIM防撤回补丁
-          tags: 
         - title: CleanMyWechat
           logo: 
           url: https://github.com/blackboxo/CleanMyWechat
           description: 开源，自动删除PC微信缓存数据
-          tags: 
         - title: dupeGuru
           logo: 
           url: https://dupeguru.voltaicideas.net/
           description: 重复文件查找
-          tags:
 
     - term: 翻译
       links:
@@ -310,17 +260,14 @@
           logo: 
           url: https://github.com/crow-translate/crow-translate
           description: 开源，翻译，可调用Google,YandexandBingtranslateAPI
-          tags: 
         - title: 团子翻译器
           logo: 
           url: https://github.com/PantsuDango/Dango-Translator/releases/tag/Ver3.4
           description: 全局翻译
-          tags: 
         - title: CopyTranslator
           logo: 
           url: https://copytranslator.github.io/
           description: 翻译工具
-          tags: 
       
     - term: OCR
       links:
@@ -328,17 +275,14 @@
           logo: 
           url: http://tianruoocr.cn/
           description: 
-          tags: 
         - title: 妙手OCR
           logo: 
           url: https://www.52pojie.cn/thread-1164883-1-1.html
           description: 
-          tags: 
         - title: PaddleOCR
           logo: 
           url: https://github.com/PaddlePaddle/PaddleOCR
           description: 
-          tags: 
 
     - term: PDF
       links:
@@ -346,67 +290,54 @@
           logo: 
           url: https://www.sumatrapdfreader.org
           description: pdf阅读器，开源，支持PDF、epub、mobi、SPS,DjVu,CHM,CBZ和CBR格式
-          tags: 
         - title: PDFsamBasic
           logo: 
           url: https://pdfsam.org/
           description: 开源，合并、拆分、提取页面、旋转和混合PDF文件
-          tags: 
         - title: uPDF
           logo: 
           url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1082693
           description: 吾爱破解出品，PDF编辑，小工具
-          tags: 
         - title: PDF24
           logo: 
           url: https://zh.pdf24.org/
           description: PDF的24个功能
-          tags: 
         - title: PDFShaperFree
           logo: 
           url: https://www.pdfshaper.com/
           description: 
-          tags: 
         - title: PDFPatcher
           logo: 
           url: https://www.cnblogs.com/pdfpatcher/
           description: 多功能PDF工具箱，“0.6.2版可能是PDF补丁丁的最后一版。它在未来将不再更新。”免安装，解压即用
-          tags: 
         - title: XoDoPDFReader
           logo: 
           url: https://www.xodo.com/#
           description: 全平台
-          tags: 
         - title: doPDF
           logo: 
           url: http://www.dopdf.com/
           description: PDF打印机,虚拟PDF打印机驱动程序,将任何类型的可打印文档转换为PDF文件,免费
-          tags: 
         - title: iSkysoftPDFEditor
           logo: 
           url: 付费，界面友好
           description: 
-          tags: 
         - title: SolidConverterPDF
           logo: 
           url: https://www.soliddocuments.com/zh/
           description: 付费，名称：SolidConverterPDFv
-          tags: 
         - title: 悦书PDF阅读器
           logo: 
           url: http://www.yueshupdf.com/
           description: PDF转换，注释
-          tags: 
         - title: 福昕PDF编辑器个人版
           logo: 
           url: http://editor.foxitsoftware.cn/
           description: 专业，号称“永久免费试用”；试用版在可编辑的第一页添加全局水印，二次编辑在第二页添加水印，依此类推。
-          tags: 
         - title: PDFgear
           logo: 
           url: https://www.pdfgear.com/zh/
           description: 阅读、编辑、转换、合并和跨设备签署PDF文件，且无需注册。
-          tags: 
 
     - term: Office
       links:
@@ -414,47 +345,38 @@
           logo: 
           url: https://otp.landian.vip/zh-cn/
           description: Office安装、激活、管理
-          tags: 
         - title: Office2013-2019C2RInstall
           logo: 
           url: https://www.nsaneforums.com/topic/332794-office-2013-2019-c2r-install-install-lite-654/
           description: 
-          tags: 
         - title: 小恐龙公文排版助手
           logo: 
           url: https://gw.xkonglong.com/#/
           description: word插件
-          tags: 
         - title: 方方格子
           logo: 
           url: http://www.ffcell.com/
           description: excel插件
-          tags: 
         - title: excel易用宝
           logo: 
           url: https://yyb.excelhome.net/
           description: 由ExcelHome开发，永久免费
-          tags: 
         - title: Excel必备工具箱（免费版）
           logo: 
           url: http://www.ahzll.top/
           description: 
-          tags: 
         - title: Excel精灵
           logo: 
           url: http://www.excelbbx.net/
           description: 似乎有次数限制？Word精灵、PPT精灵、Office精灵三合一
-          tags: 
         - title: easychart
           logo: 
           url: http://easychart.github.io/post/Easycharts/
           description: 似乎年代久远？
-          tags: 
         - title: iSlide
           logo: 
           url: https://www.islide.cc/
           description: 似乎内置付费内容？
-          tags: 
 
     - term: 文件管理
       links:
@@ -462,37 +384,30 @@
           logo: 
           url: https://www.voidtools.com/zh-cn/
           description: 便携版
-          tags: 
         - title: Listary
           logo: 
           url: http://www.listary.com/
           description: 搜索工具
-          tags: 
         - title: DropIt
           logo: 
           url: http://www.dropitproject.com/
           description: 自定义文件分类
-          tags: 
         - title: TablacusExplorer
           logo: 
           url: https://tablacus.github.io/explorer_en.html
           description: 文件管理器
-          tags: 
         - title: DeskGo（桌面整理）
           logo: 
           url: https://guanjia.qq.com/product/zmzl/
           description: 腾讯电脑管家桌面整理
-          tags: 
         - title: Coodesker（酷呆桌面）
           logo: 
           url: https://www.coodesker.com
           description: 
-          tags: 
         - title: Q-dir
           logo: 
           url: https://www.softwareok.eu/
           description: 文件管理器，默认四个小窗口组成一个大窗口
-          tags: 
 
     - term: 局域网传输
       links:
@@ -500,27 +415,22 @@
           logo: 
           url: https://github.com/svenstaro/miniserve
           description: HTTP传输
-          tags: 
         - title: localsend
           logo: 
           url: https://github.com/localsend/localsend
           description: 局域网传输
-          tags: 
         - title: CuteHttpFileServer/chfs
           logo: 
           url: http://iscute.cn/chfs
           description: 免费的、HTTP协议的文件共享服务器
-          tags: 
         - title: 百灵快传(B0Pass)
           logo: 
           url: https://github.com/bitepeng/b0pass
           description: 局域网共享文件
-          tags: 
         - title: LANDrop
           logo: 
           url: https://github.com/LANDrop/LANDrop
           description: 无安卓
-          tags: 
         
     - term: 同步
       links:
@@ -528,22 +438,18 @@
           logo: 
           url: http://cn.filegee.com/download.html
           description: 免费版，同步软件
-          tags: 
         - title: FreeFileSync
           logo: 
           url: https://freefilesync.org/
           description: 开源，同步软件
-          tags: 
         - title: GoodSync
           logo: 
           url: https://www.goodsync.com/cn
           description: 收费，同步软件
-          tags: 
         - title: SyncToy
           logo: 
           url: https://www.microsoft.com/en-us/download/details.aspx?id=15155
           description: 微软出品，免费，2009年更新，不支持Win10
-          tags: 
           
     - term: Win系统管理
       links:
@@ -551,87 +457,70 @@
           logo: 
           url: https://github.com/valinet/ExplorerPatcher
           description: 任务栏、开始菜单设置工具
-          tags: 
         - title: PowerToys
           logo: 
           url: https://github.com/microsoft/PowerToys
           description: 微软官方出品，丰富系统功能
-          tags: 
         - title: 微PE工具箱
           logo: 
           url: http://www.wepe.com.cn/
           description: WinPE装机维护工具
-          tags: 
         - title: 云图工具箱
           logo: 
           url: https://wintool.cc/
           description: 系统工具箱
-          tags: 
         - title: 图吧工具箱
           logo: 
           url: http://www.tbtool.cn/
           description: 电脑系统检测工具
-          tags: 
         - title: 硬件狗狗（HDDog）
           logo: 
           url: http://yjgg.mydrivers.com/
           description: 电脑硬件检测
-          tags: 
         - title: Ventoy
           logo: 
           url: https://github.com/ventoy/Ventoy/releases
           description: 开源，U盘启动盘制作，支持多系统，还能当普通U盘保存文件
-          tags: 
         - title: Rufus
           logo: 
           url: https://github.com/pbatard/rufus
           description: 开源，制作U盘启动盘
-          tags: 
         - title: CnCrypt
           logo: 
           url: http://cncrypt.com/
           description: 磁盘加密
-          tags: 
         - title: CrystalDiskInfo
           logo: 
           url: https://crystalmark.info/en/
           description: 专业硬盘检测
-          tags: 
         - title: DiskGenius
           logo: 
           url: https://www.diskgenius.cn/
           description: 硬盘管理
-          tags: 
         - title: Windows超级管理器
           logo: 
           url: https://www.colithel.com/supermanager.html
           description: 
-          tags: 
         - title: Sophi
           logo: 
           url: https://github.com/Sophia-Community/SophiApp
           description: 微调windows
-          tags: 
         - title: WPD
           logo: 
           url: https://wpd.app/
           description: Win10隐私设置工具
-          tags: 
         - title: Optimizer
           logo: 
           url: https://github.com/hellzerg/optimizer
           description: 系统优化
-          tags: 
         - title: TurnedOnTimesView
           logo: 
           url: http://www.nirsoft.net/utils/computer_turned_on_times.html
           description: 开关机时间、电脑持续使用时间、关机或重启的原因
-          tags: 
         - title: FixWin
           logo: 
           url: http://www.dayanzai.me/fixwin-11.html
           description: win11/10修复
-          tags: 
           
     - term: 远程控制
       links:
@@ -639,27 +528,22 @@
           logo: 
           url: https://hipc.cn/
           description: 手机远控电脑
-          tags: 
         - title: EmailMyPC
           logo: 
           url: https://jackeriss.github.io/email_my_pc
           description: 邮件控制电脑
-          tags: 
         - title: RemoteControlDesktop
           logo: 
           url: https://github.com/codext-remotecontrol/remotecontrol-desktop
           description: 远程控制
-          tags: 
         - title: 爱思远控
           logo: 
           url: https://www.i4.cn/pro_remote.html
           description: 
-          tags: 
         - title: 网易UU远程
           logo: 
           url: https://yc.uu.163.com/
           description: 
-          tags: 
 
 
 - taxonomy: 效率
@@ -671,184 +555,152 @@
           logo: 
           url: https://ditto-cp.sourceforge.io/index.php
           description: 开源，商店版、便携版
-          tags: 
         - title: Snatch
           logo: 
           url: https://snatch.kasper.io
           description: ​剪贴板管理
-          tags: 
         - title: PasteEx
           logo: 
           url: https://github.com/huiyadanli/PasteEx/blob/master/README_CN.md
           description: 将剪切板内容存为文件
-          tags: 
         - title: CopyQ
           logo: 
           url: https://hluk.github.io/CopyQ/
           description: 剪贴板增强
-          tags: 
         - title: CC助手
           logo: 
           url: https://ccyixia.com/
           description: 复制两次，一键收藏
-          tags: 
 
     - term: 预览
       links: 
-      - title: QuickLook
-        logo: 
-        url: http://pooi.moe/QuickLook/
-        description: 开源，商店版
-        tags: 
-      - title: 火柴
-        logo: 
-        url: https://www.huochaipro.com/
-        description: 
-        tags: 
-      - title: seer
-        logo: 
-        url: https://sourceforge.net/projects/ccseer/
-        description: 预览，微软出品，
-        tags: 
+        - title: QuickLook
+          logo: 
+          url: http://pooi.moe/QuickLook/
+          description: 开源，商店
+        - title: 火柴
+          logo: 
+          url: https://www.huochaipro.com/
+          description:
+        - title: seer
+          logo: 
+          url: https://sourceforge.net/projects/ccseer/
+          description: 预览，微软出品
         
-    -term: 快捷启动
-      - title: Wox
-        logo: 
-        url: http://www.wox.one/
-        description: 开源，快捷启动工具
-        tags: 
-      - title: nTrun
-        logo: 
-        url: https://www.ntrun.com/index.html
-        description: 快速启动工具
-        tags: 
-      - title: Maya
-        logo: 
-        url: https://github.com/25H/Maya/releases
-        description: 快速启动
-        tags: 
-      - title: Lucy
-        logo: 
-        url: https://www.52pojie.cn/thread-1624289-1-1.html
-        description: 吾爱破解出品，绿色免安装
-        tags: 
-      - title: ​Quicker
-        logo: 
-        url: https://getquicker.net/
-        description: 
-        tags: 
+    - term: 快捷启动
+      links: 
+        - title: Wox
+          logo: 
+          url: http://www.wox.one/
+          description: 开源，快捷启动工
+        - title: nTrun
+          logo: 
+          url: https://www.ntrun.com/index.html
+          description: 快速启动工
+        - title: Maya
+          logo: 
+          url: https://github.com/25H/Maya/releases
+          description: 快速启
+        - title: Lucy
+          logo: 
+          url: https://www.52pojie.cn/thread-1624289-1-1.html
+          description: 吾爱破解出品，绿色免安
+        - title: ​Quicker
+          logo: 
+          url: https://getquicker.net/
+          description:
 
-    -term: 鼠标手势
-      - title: WinXcorners
-        logo: 
-        url: https://github.com/vhanla/winxcorners/
-        description: 开源，添加触发角功能
-        tags: 
-      - title: Wheel
-        logo: 
-        url: https://github.com/majorworld/Wheel
-        description: 24个屏幕边缘触发器
-        tags: 
-      - title: MouseInc
-        logo: 
-        url: https://shuax.com/
-        description: 鼠标增强工具，小巧，鼠标手势及增强功能
-        tags: 
-      - title: Wgestures
-        logo: 
-        url: http://www.yingdev.com/projects/wgestures
-        description: 开源，全局鼠标手势
-        tags: 
-      - title: MousePlus
-        logo: 
-        url: https://gitee.com/majorworld/mouseplus
-        description: 鼠标手势软件，内置可视化脚本编辑器
-        tags: 
-      - title: Stroke
-        logo: 
-        url: https://github.com/poerin/Stroke
-        description: 鼠标手势，无四角手势，支持中文？
-        tags: 
-      - title: OneQuick
-        logo: 
-        url: https://onequick.org/
-        description: 快捷键工具
-        tags: 
+    - term: 鼠标手势
+      links: 
+        - title: WinXcorners
+          logo: 
+          url: https://github.com/vhanla/winxcorners/
+          description: 开源，添加触发角功
+        - title: Wheel
+          logo: 
+          url: https://github.com/majorworld/Wheel
+          description: 24个屏幕边缘触发
+        - title: MouseInc
+          logo: 
+          url: https://shuax.com/
+          description: 鼠标增强工具，小巧，鼠标手势及增强功
+        - title: Wgestures
+          logo: 
+          url: http://www.yingdev.com/projects/wgestures
+          description: 开源，全局鼠标手
+        - title: MousePlus
+          logo: 
+          url: https://gitee.com/majorworld/mouseplus
+          description: 鼠标手势软件，内置可视化脚本编辑
+        - title: Stroke
+          logo: 
+          url: https://github.com/poerin/Stroke
+          description: 鼠标手势，无四角手势，支持中文
+        - title: OneQuick
+          logo: 
+          url: https://onequick.org/
+          description: 快捷键工
        
 
 - taxonomy: 桌面美化
   icon: fa-user-group
-  list: 
-      - title: TranslucentTB
-        logo: 
-        url: https://github.com/TranslucentTB/TranslucentTB
-        description: 任务栏透明、美化
-        tags: 
-      - title: TaskbarTools
-        logo: 
-        url: https://github.com/Elestriel/TaskbarTools
-        description: 任务栏透明、美化
-        tags: 
-      - title: Wifinian
-        logo: 
-        url: https://github.com/emoacht/Wifinian
-        description: 开源，商店版，WiFi管理
-        tags: 
-      - title: ModernFlyouts
-        logo: 
-        url: https://github.com/ModernFlyouts-Community/ModernFlyouts
-        description: 开源，商店版，音量管理
-        tags: 
-      - title: EarTrumpet
-        logo: 
-        url: https://github.com/File-New-Project/EarTrumpet
-        description: 开源，声音输出管理
-        tags: 
-      - title: TrafficMonitor
-        logo: 
-        url: https://github.com/zhongyang219/TrafficMonitor
-        description: 监控悬浮窗
-        tags: 
-      - title: StartMenuX
-        logo: 
-        url: https://www.startmenux.com/zh-cn/
-        description: 免费版，开始菜单win7化
-        tags: 
-      - title: Splashy
-        logo: 
-        url: https://splashy.art/
-        description: 自动换壁纸，壁纸源自Unsplash
-        tags: 
-      - title: upupoo
-        logo: 
-        url: http://www.upupoo.com
-        description: 动态壁纸，全平台
-        tags: 
-      - title: 火萤
-        logo: 
-        url: http://www.huoying666.com/
-        description: 动态壁纸，全平台
-        tags: 
-      - title: FliqloScreenSaver
-        logo: 
-        url: https://fliqlo.com/
-        description: 翻页时间屏保
-        tags: 
-      - title: ScreensaversPlanes
-        logo: 
-        url: https://www.screensaversplanet.com/screensavers/
-        description: 屏保合集
-        tags: 
-      - title: WallpaperEngine
-        logo: 
-        url: https://www.wallpaperengine.io/
-        description: Steam购买
-        tags: 
-      - title: Rainmete（雨滴桌面）
-        logo: 
-        url: https://www.rainmeter.net/
-        description: 桌面美化工具，添加挂件
-        tags: 
+  links:  
+    - title: TranslucentTB
+      logo: 
+      url: https://github.com/TranslucentTB/TranslucentTB
+      description: 任务栏透明、美
+    - title: TaskbarTools
+      logo: 
+      url: https://github.com/Elestriel/TaskbarTools
+      description: 任务栏透明、美
+    - title: Wifinian
+      logo: 
+      url: https://github.com/emoacht/Wifinian
+      description: 开源，商店版，WiFi管
+    - title: ModernFlyouts
+      logo: 
+      url: https://github.com/ModernFlyouts-Community/ModernFlyouts
+      description: 开源，商店版，音量管
+    - title: EarTrumpet
+      logo: 
+      url: https://github.com/File-New-Project/EarTrumpet
+      description: 开源，声音输出管
+    - title: TrafficMonitor
+      logo: 
+      url: https://github.com/zhongyang219/TrafficMonitor
+      description: 监控悬浮
+    - title: StartMenuX
+      logo: 
+      url: https://www.startmenux.com/zh-cn/
+      description: 免费版，开始菜单win7
+    - title: Splashy
+      logo: 
+      url: https://splashy.art/
+      description: 自动换壁纸，壁纸源自Unsplas
+    - title: upupoo
+      logo: 
+      url: http://www.upupoo.com
+      description: 动态壁纸，全平
+    - title: 火萤
+      logo: 
+      url: http://www.huoying666.com/
+      description: 动态壁纸，全平
+    - title: FliqloScreenSaver
+      logo: 
+      url: https://fliqlo.com/
+      description: 翻页时间屏
+    - title: ScreensaversPlanes
+      logo: 
+      url: https://www.screensaversplanet.com/screensavers/
+      description: 屏保合
+    - title: WallpaperEngine
+      logo: 
+      url: https://www.wallpaperengine.io/
+      description: Steam购
+    - title: Rainmete（雨滴桌面）
+      logo: 
+      url: https://www.rainmeter.net/
+      description: 桌面美化工具，添加挂
 
           
 
