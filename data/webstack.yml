@@ -173,7 +173,7 @@
         - title: Listen1
           logo: 
           url: https://github.com/listen1
-          description: 9.3k star,PC、浏览器扩展、安卓、iOS，在线音乐播放
+          description: 9.3k star,一个基于 electron 的音乐软件,PC、浏览器扩展、安卓、iOS，在线音乐播放
         - title: 洛雪音乐助手
           logo: 
           url: https://github.com/lyswhut/lx-music-desktop
@@ -197,15 +197,75 @@
 
     - term: 音乐-Android
       links: 
+        - title: 酷狗概念版
+          logo: 
+          url: https://activity.kugou.com/download/v-a23b0cf0/index.html
+          description: 每日领VIP，在线听的不二选择
         - title: LX Music 
           logo: 
+          url: https://github.com/lyswhut/lx-music-mobile
+          description: 一个基于 React native 开发的音乐软件，自行导入音源，同desktop
+        - title: MusicFree
+          logo: 
+          url: https://github.com/maotoumao/MusicFree
+          description: 插件化、定制化、无广告的免费音乐播放器
+        - title: 音乐时刻
+          logo: 
+          url: https://www.magicalapk.com/appview?id=1709812707300
+          description: 可设置下载路径、命名格式、写入音乐标签、下载歌词文件，与歌词适配相似
+        - title: 极乐
+          logo: 
+          url: https://wds.cxoip.com/797.html
+          description: 音乐下载，一个就够了
+        - title: 天天悦听
+          logo: 
+          url: https://pan.xunlei.com/s/VNniL144qUd9zSr5Bh9vXJf7A1?pwd=9y8d#
+          description: 公众号“安卓聚玩”，小程序“聚玩工具箱”
+        - title: 简乐
+          logo: 
+          url: https://www.magicalapk.com/appview?id=1708796003760
+          description:
+        - title: 音乐搜索
+          logo: 
+          url: https://www.magicalapk.com/appview?id=1709199112036
+          description: 网站套壳
+        - title: 无损音乐
+          logo: 
           url: 
-          description: 
-    - title: 
+          description: 文件夹播放器
+        - title: 拟声
+          logo: 
+          url: https://download.music.mimicry.cool/
+          description: 拟物风音视频播放器
+        - title: Musicolet
+          logo: 
+          url: https://krosbits.in/musicolet/
+          description: Android 离线音乐播放器
+        - title: 椒盐音乐
+          logo: 
+          url: https://play.google.com/store/apps/details?id=com.salt.music
+          description: 本地音乐播放器，酷安大佬开发
+        - title: 海贝音乐
+          logo: 
+          url: https://www.hiby.com/
+          description:
+        - title: NYX Music Player
+          logo: 
+          url: https://nyx-music-player.cn.uptodown.com/android
+          description: 动画精美，本地音乐播放器
+        - title: Stellio Player
+          logo: 
+          url: https://play.google.com/store/apps/details?id=io.stellio.music
+          description: 本地音乐播放器
+        - title: 
           logo: 
           url: 
           description:
-    - title: 
+        - title: 
+          logo: 
+          url: 
+          description:
+        - title: 
           logo: 
           url: 
           description:
