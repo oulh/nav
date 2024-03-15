@@ -480,6 +480,18 @@
 
     - term: 视频下载
       links: 
+        - title: lux
+          logo: 
+          url: https://github.com/iawia002/lux
+          description: 23.5k star,用 Go 语言编写的视频下载库和 CLI 工具，多线程下载、断点续传、自动重试,下载视频、音频、字幕、播放列表，包括 B站、抖音、爱奇艺、芒果TV、微博、腾讯视频、小红书等
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: CRTubeGet
           logo: 
           url: https://www.cr-soft.net/crtubeget.html
@@ -543,7 +555,47 @@
           logo: 
           url: https://www.filecxx.com/zh_CN/
           description: 全能，http、磁力，浏览器扩展，资源嗅探
-      
+
+    - term: 下载-Android
+      links:
+        - title: 1DM
+          logo: 
+          url: https://play.google.com/store/apps/details?id=idm.internet.download.manager
+          description: 多线程下载
+        - title: 1DM Lite
+          logo: 
+          url: https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite
+          description: 
+        - title: Seal
+          logo: 
+          url: https://github.com/JunkFood02/Seal
+          description: 6.9k star,基于 yt-dlp,下载视频与音频，支持播放列表下载、内嵌字幕于视频文件中、使用 aria2c 进行下载等
+         - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+         - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+         - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+
+
    
 - taxonomy: 办公相关
   icon: fa-palette
@@ -775,6 +827,10 @@
           logo: 
           url: https://github.com/localsend/localsend
           description: 32.3k star,局域网传输
+        - title: FlyingCarpet
+          logo: 
+          url: https://github.com/spieglt/FlyingCarpet
+          description: 3k star,Android、iOS、Linux、macOS 和 Windows 客户端。
         - title: CuteHttpFileServer/chfs
           logo: 
           url: http://iscute.cn/chfs
