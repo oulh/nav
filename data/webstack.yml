@@ -744,6 +744,13 @@
 
     - term: 局域网传输
       links:
+        - title: 闪电藤
+          logo: 
+          url: https://lightningvine.zishu.life/
+          description: 基于LocalSend二次开发的一款局域网文件传输工具
+        - title: LocalSend
+          url: https://localsend.org/#/
+          description:
         - title: miniserve
           logo: 
           url: https://github.com/svenstaro/miniserve
@@ -751,7 +758,7 @@
         - title: localsend
           logo: 
           url: https://github.com/localsend/localsend
-          description: 局域网传输
+          description: 32.3k star,局域网传输
         - title: CuteHttpFileServer/chfs
           logo: 
           url: http://iscute.cn/chfs
