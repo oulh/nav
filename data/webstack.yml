@@ -86,7 +86,7 @@
 - taxonomy: 媒体
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 影视
+    - term: 影视-win
       links: 
         - title: Miru
           logo: 
@@ -100,6 +100,53 @@
           logo: 
           url: https://www.jianpian8.com/
           description: 全平台，无网页，专治迅雷被封链接
+
+    - term: 影视-Android
+      links: 
+        - title: AH视频
+          logo: 
+          url: https://ahsp.app/
+          description: 清晰无广，更新稳定
+        - title: 龙门视频
+          logo: 
+          url: https://looo.top/
+          description: 清晰无广
+        - title: Miru
+          logo: 
+          url: https://miru.js.org/
+          description: 开源的支持视频、漫画、小说扩展源的多功能媒体娱乐应用，支持Android、Windows、Web
+        - title: 可可影视
+          logo: 
+          url: kekys.com
+          description: 清晰无广,更新稳定，邮箱（kekedy51@gmail.com）,发送“1”获取最新链接
+        - title: 奇妙影视
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 音乐
       links: 
