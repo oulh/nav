@@ -570,10 +570,10 @@
           logo: 
           url: https://github.com/JunkFood02/Seal
           description: 6.9k star,基于 yt-dlp,下载视频与音频，支持播放列表下载、内嵌字幕于视频文件中、使用 aria2c 进行下载等
-        - title: 
+        - title: Lj视频下载器
           logo: 
-          url: 
-          description: 
+          url: https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader
+          description: 从网页中提取视频，下载m3u8，多线程下载
         - title: 
           logo: 
           url: 
@@ -1032,34 +1032,34 @@
 
     - term: 鼠标手势
       links: 
-        - title: WinXcorners
-          logo: 
-          url: https://github.com/vhanla/winxcorners/
-          description: 开源，添加触发角功能
-        - title: Wheel
-          logo: 
-          url: https://github.com/majorworld/Wheel
-          description: 24个屏幕边缘触发器
-        - title: MouseInc
-          logo: 
-          url: https://shuax.com/
-          description: 鼠标增强工具，小巧，鼠标手势及增强功能
         - title: Wgestures
           logo: 
           url: http://www.yingdev.com/projects/wgestures
-          description: 开源，全局鼠标手势
+          description: 1.4k star,全局鼠标手势
         - title: MousePlus
           logo: 
           url: https://gitee.com/majorworld/mouseplus
-          description: 鼠标手势软件，内置可视化脚本编辑器
+          description: 鼠标手势软件，内置可视化脚本编辑器，上百个脚本步骤，随意组合
+        - title: WinXcorners
+          logo: 
+          url: https://github.com/vhanla/winxcorne1rs/
+          description: 开源，为win10添加触发角，2019停更
+        - title: Wheel
+          logo: 
+          url: https://github.com/majorworld/Wheel
+          description: 24个屏幕边缘触发器，2020停更
+        - title: MouseInc
+          logo: 
+          url: https://shuax.com/
+          description: 网站已挂，鼠标增强工具，小巧，鼠标手势及增强功能
         - title: Stroke
           logo: 
           url: https://github.com/poerin/Stroke
-          description: 鼠标手势，无四角手势，支持中文？
+          description: 鼠标手势，无四角手势，自行编写，2021停更
         - title: OneQuick
           logo: 
           url: https://onequick.org/
-          description: 快捷键工具
+          description: 快捷键工具，2018停更
        
 
 - taxonomy: 桌面美化
