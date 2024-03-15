@@ -255,7 +255,7 @@
         - title: 简乐
           logo: 
           url: https://www.magicalapk.com/appview?id=1708796003760
-          description:无广，
+          description: 无广，
         - title: 音乐搜索
           logo: 
           url: https://www.magicalapk.com/appview?id=1709199112036
@@ -268,7 +268,7 @@
           logo: 
           url: 
           description: 文件夹播放器
-         - title: DialogMusicPlayer
+        - title: DialogMusicPlayer
           logo: 
           url: https://github.com/VishnuSanal/DialogMusicPlayer/
           description: 极简，无桌面图标，播放界面类似于悬浮窗
