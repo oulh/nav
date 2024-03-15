@@ -135,10 +135,10 @@
           logo: 
           url: https://github.com/10miaomiao/bilimiao2
           description: 1.2k star,原哔哩哔哩时光机
-        - title: 
+        - title: BILIBILIAS
           logo: 
-          url: 
-          description: 
+          url: https://api.misakamoe.com/app/
+          description: 解析B站视频、下载
         - title: 
           logo: 
           url: 
@@ -166,6 +166,10 @@
           logo: 
           url: https://github.com/digimezzo/dopamine-windows
           description: 1.7k star,简约本地音乐播放器
+        - title: 拟声
+          logo: 
+          url: https://download.music.mimicry.cool/
+          description: 拟物风音视频播放器，win、Android
         - title: Listen1
           logo: 
           url: https://github.com/listen1
@@ -190,6 +194,13 @@
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
+
+    - term: 音乐-Android
+      links: 
+        - title: LX Music 
+          logo: 
+          url: 
+          description: 
 
     - term: 图片
       links: 
