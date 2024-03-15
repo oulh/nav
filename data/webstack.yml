@@ -122,19 +122,19 @@
         - title: 奇妙影视
           logo: 
           url: 
-          description: 
-        - title: 
+          description: 奇妙出品，公众号“奇谈君”或奇妙应用下载
+        - title: Bili You
           logo: 
-          url: 
-          description: 
-        - title: 
+          url: https://github.com/lucinhu/bili_you
+          description: 2.8k star,一个用flutter制作的第三方B站客户端.
+        - title: PiliPala
           logo: 
-          url: 
-          description: 
-        - title: 
+          url: https://github.com/guozhigq/pilipala
+          description: 3.7k star,Flutter开发的BiliBili第三方客户端
+        - title: bilimiao
           logo: 
-          url: 
-          description: 
+          url: https://github.com/10miaomiao/bilimiao2
+          description: 1.2k star,原哔哩哔哩时光机
         - title: 
           logo: 
           url: 
@@ -148,7 +148,7 @@
           url: 
           description: 
 
-    - term: 音乐
+    - term: 音乐-win
       links: 
         - title: Mcool
           logo: 
