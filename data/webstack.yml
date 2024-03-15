@@ -158,6 +158,18 @@
 
     - term: 音乐-win
       links: 
+        - title: foobar2000
+          logo: 
+          url: https://www.foobar2000.org/
+          description: 在音乐界的地位震古烁今
+        - title: foobox
+          logo: 
+          url: https://github.com/dream7180/foobox-cn?tab=readme-ov-file
+          description: 4k star,一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件
+        - title: foobar2000汉化版
+          logo: 
+          url: https://www.cnblogs.com/asionwu
+          description: 一个 foobar2000 爱好者
         - title: Mcool
           logo: 
           url: https://mcool.appinn.me/
@@ -327,6 +339,10 @@
           logo: 
           url: https://zh.snipaste.com/
           description: 截图+贴图，便携版、商店版，长截图需专业版
+        - title: ShareX
+          logo: 
+          url: https://getsharex.com/
+          description: 27.1k star,编辑功能强大，适合专业人士，未适配高分屏（2024.3），显示过小
         - title: PixPin
           logo: 
           url: https://pixpinapp.com/
