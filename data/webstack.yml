@@ -6,6 +6,14 @@
     - title: 小田田
       url: https://xydh.fun/xiaotiantian
       description: 汇总导航,你想要的都有
+    - title: 低调观影
+      logo: 
+      url: https://shouku123.com/tiantian
+      description: 观影网站导航
+    - title: 
+      logo: 
+      url: 
+      description: 
     
 
 - taxonomy: 日常
@@ -181,11 +189,6 @@
         - title: 六音音源
           logo:
           url: https://www.sixyin.com/8498.html
-          description:
-        - title: Music_Download
-          logo: 
-          url: https://java-syj.feishu.cn/wiki/DBqIwuJ1ji228ike4necim4cnDg
-          description: 2021停更，基于python，网易云，QQ音乐，酷狗音乐在线播放和下载
         - title: MusicFree
           logo: 
           url: https://github.com/maotoumao
@@ -194,6 +197,27 @@
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
+          description:
+        - title: TTKMusicPlayer
+          logo: 
+          url: https://github.com/Greedysky/TTKMusicPlayer?tab=readme-ov-file
+          description: 2.2k star,音乐播放器模仿酷狗，基于Qt和Qmmp库开发，支持Windows和Linux平台.
+        - title: YesPlayMusic
+          logo: 
+          url: https://github.com/qier222/YesPlayMusic
+          description: 26.5k star,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+        - title: 
+          logo: 
+          url: 
+          description:
+        - title: electron-vue-cloud-music
+          logo: 
+          url: https://github.com/xiaozhu188/electron-vue-cloud-music
+          description: Electron + Vue 仿网易云音乐windows客户端，2021停更
+        - title: Music_Download
+          logo: 
+          url: https://java-syj.feishu.cn/wiki/DBqIwuJ1ji228ike4necim4cnDg
+          description: 2021停更，基于python，网易云，QQ音乐，酷狗音乐在线播放和下载
 
     - term: 音乐-Android
       links: 
@@ -205,6 +229,14 @@
           logo: 
           url: https://github.com/lyswhut/lx-music-mobile
           description: 一个基于 React native 开发的音乐软件，自行导入音源，同desktop
+        - title: Listen 1
+          logo: 
+          url: https://listen1.github.io/listen1/
+          description: 搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: MusicFree
           logo: 
           url: https://github.com/maotoumao/MusicFree
@@ -212,27 +244,35 @@
         - title: 音乐时刻
           logo: 
           url: https://www.magicalapk.com/appview?id=1709812707300
-          description: 可设置下载路径、命名格式、写入音乐标签、下载歌词文件，与歌词适配相似
+          description: 无广，可设置下载路径、命名格式、写入音乐标签、下载歌词文件，与歌词适配相似
         - title: 极乐
           logo: 
           url: https://wds.cxoip.com/797.html
-          description: 音乐下载，一个就够了
+          description: 无广，音乐下载
         - title: 天天悦听
           logo: 
           url: https://pan.xunlei.com/s/VNniL144qUd9zSr5Bh9vXJf7A1?pwd=9y8d#
-          description: 公众号“安卓聚玩”，小程序“聚玩工具箱”
+          description: 无广，公众号“安卓聚玩”，小程序“聚玩工具箱”
         - title: 简乐
           logo: 
           url: https://www.magicalapk.com/appview?id=1708796003760
-          description:
+          description:无广，
         - title: 音乐搜索
           logo: 
           url: https://www.magicalapk.com/appview?id=1709199112036
-          description: 网站套壳
+          description: 无广，网站套壳
+        - title:  不倦
+          logo: 
+          url: https://github.com/2697a/bujuan
+          description: Flutter移动端+桌面端三方网易云播放器
         - title: 无损音乐
           logo: 
           url: 
           description: 文件夹播放器
+         - title: DialogMusicPlayer
+          logo: 
+          url: https://github.com/VishnuSanal/DialogMusicPlayer/
+          description: 极简，无桌面图标，播放界面类似于悬浮窗
         - title: 拟声
           logo: 
           url: https://download.music.mimicry.cool/
@@ -261,14 +301,10 @@
           logo: 
           url: 
           description:
-        - title: 
+        - title: InnerTune
           logo: 
-          url: 
-          description:
-        - title: 
-          logo: 
-          url: 
-          description:
+          url: https://github.com/z-huang/InnerTune
+          description: 3.1k star,第三方 YouTube Music 
 
     - term: 图片
       links: 
