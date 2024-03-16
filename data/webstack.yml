@@ -147,14 +147,14 @@
           logo: 
           url: https://api.misakamoe.com/app/
           description: 解析B站视频、下载
-        - title: 
+        - title: LibreTube
           logo: 
-          url: 
-          description: 
-        - title: 
+          url: https://github.com/libre-tube/LibreTube
+          description: 7.4k star,YouTube第三方，仅Android
+        - title: PipePipe
           logo: 
-          url: 
-          description: 
+          url: https://github.com/InfinityLoop1308/PipePipe
+          description: 1.3k star,第三方YouTube, NicoNico and BiliBili 
 
     - term: 音乐-win
       links: 
