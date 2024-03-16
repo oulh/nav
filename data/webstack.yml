@@ -738,14 +738,18 @@
 
     - term: Office
       links:
+         - title: FreeOffice
+          logo: 
+          url: https://www.freeoffice.com/zh/
+          description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
         - title: OfficeToolPlus
           logo: 
           url: https://otp.landian.vip/zh-cn/
           description: Office安装、激活、管理
-        - title: FreeOffice
+        - title: mocreak
           logo: 
-          url: https://www.freeoffice.com/zh/
-          description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
+          url: https://www.mocreak.com/
+          description: 6.7k star,一键自动化、无人值守下载、安装、部署 Office 的利器
         - title: 
           logo: 
           url: 
@@ -1092,6 +1096,10 @@
           logo: 
           url: https://github.com/Elestriel/TaskbarTools
           description: 任务栏透明、美化
+        - title: ImTip
+          logo: 
+          url: https://github.com/aardio/ImTip?tab=readme-ov-file
+          description: 1.1k star,通用输入法状态跟踪提示 
         - title: Wifinian
           logo: 
           url: https://github.com/emoacht/Wifinian
