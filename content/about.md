@@ -10,7 +10,7 @@ draft: false
 ### 互联网没有边际，世界那么大，走走看
 
 
-![图片alt](https://raw.githubusercontent.com/san-ren/MyPic/main/202403161817594.jpg)
+![](https://raw.githubusercontent.com/san-ren/MyPic/main/202403161817594.jpg)
 
 
 
