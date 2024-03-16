@@ -484,14 +484,14 @@
           logo: 
           url: https://github.com/iawia002/lux
           description: 23.5k star,用 Go 语言编写的视频下载库和 CLI 工具，多线程下载、断点续传、自动重试,下载视频、音频、字幕、播放列表，包括 B站、抖音、爱奇艺、芒果TV、微博、腾讯视频、小红书等
-        - title: 
+        - title: Vdl
           logo: 
-          url: 
-          description: 
-        - title: 
+          url: https://www.52pojie.cn/thread-1231565-1-1.html
+          description: 基于You-get的图形界面，吾爱大佬制作
+        - title: you-get
           logo: 
-          url: 
-          description: 
+          url: https://github.com/soimort/you-get
+          description: 49.1k star，命令行实用程序，用于从 Web 下载媒体内容
         - title: CRTubeGet
           logo: 
           url: https://www.cr-soft.net/crtubeget.html
@@ -742,6 +742,14 @@
           logo: 
           url: https://otp.landian.vip/zh-cn/
           description: Office安装、激活、管理
+        - title: FreeOffice
+          logo: 
+          url: https://www.freeoffice.com/zh/
+          description: "Microsoft Office 的最佳免费替代品",邮箱注册发送序列号
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: Office2013-2019C2RInstall
           logo: 
           url: https://www.nsaneforums.com/topic/332794-office-2013-2019-c2r-install-install-lite-654/
@@ -816,17 +824,18 @@
           logo: 
           url: https://lightningvine.zishu.life/
           description: 基于LocalSend二次开发的一款局域网文件传输工具
-        - title: LocalSend
-          url: https://localsend.org/#/
-          description:
-        - title: miniserve
-          logo: 
-          url: https://github.com/svenstaro/miniserve
-          description: HTTP传输
         - title: localsend
           logo: 
           url: https://github.com/localsend/localsend
           description: 32.3k star,局域网传输
+        - title: KDE Connect
+          logo: 
+          url: https://kdeconnect.kde.org/
+          description: 免费无广，支持中文
+        - title: 百灵快传(B0Pass)
+          logo: 
+          url: https://github.com/bitepeng/b0pass
+          description: 2k star,局域网共享文件,基于Go语言
         - title: FlyingCarpet
           logo: 
           url: https://github.com/spieglt/FlyingCarpet
@@ -834,15 +843,19 @@
         - title: CuteHttpFileServer/chfs
           logo: 
           url: http://iscute.cn/chfs
-          description: 免费的、HTTP协议的文件共享服务器
-        - title: 百灵快传(B0Pass)
+          description: 免费的、HTTP协议的文件共享服务器，使用浏览器访问
+        - title: miniserve
           logo: 
-          url: https://github.com/bitepeng/b0pass
-          description: 局域网共享文件
+          url: https://github.com/svenstaro/miniserve
+          description: 5.5k star,一键生成文件服务器，HTTP传输
         - title: LANDrop
           logo: 
           url: https://github.com/LANDrop/LANDrop
-          description: 无安卓
+          description: 4.6k star,无安卓,2021停更
+        - title: Beaker Browser
+          logo: 
+          url: https://github.com/beakerbrowser/beaker
+          description: 6.7k star,2020归档，p2p浏览器
   
     - term: 同步
       links:
@@ -944,6 +957,10 @@
           logo: 
           url: https://www.todesk.com/download.html
           description: 
+        - title: RustDesk 
+          logo: 
+          url: https://rustdesk.com/zh/
+          description: 61k star,自建服务器
         - title: HiPC移动助手
           logo: 
           url: https://hipc.cn/
@@ -1074,19 +1091,31 @@
         - title: TaskbarTools
           logo: 
           url: https://github.com/Elestriel/TaskbarTools
-          description: 任务栏透明、美
+          description: 任务栏透明、美化
         - title: Wifinian
           logo: 
           url: https://github.com/emoacht/Wifinian
-          description: 开源，商店版，WiFi管
+          description: 开源，WiFi管理
         - title: ModernFlyouts
           logo: 
           url: https://github.com/ModernFlyouts-Community/ModernFlyouts
-          description: 开源，商店版，音量管
+          description: 3.3k star，音量浮出控件
         - title: EarTrumpet
           logo: 
           url: https://github.com/File-New-Project/EarTrumpet
-          description: 开源，声音输出管
+          description: 8.3k star，声音输出管理
+        - title: ContextMenuManager
+          logo: 
+          url: https://bluepointlilac.github.io/ContextMenuManager/
+          description: 10.1k star,Windows右键菜单管理
+        - title: ContextMenuForWindows11
+          logo: 
+          url: https://github.com/ikas-mc/ContextMenuForWindows11
+          description: 1.5k star,为 Windows11 添加自定义上下文菜单,自行配置
+        - title: SageThumbs
+          logo: 
+          url: https://www.cherubicsoft.com/en/projects/sagethumbs/
+          description: 在右键菜单预览图片
         - title: Alt-Tab Terminator
           logo: 替换系统 Alt-Tab 对话框，简洁直观
           url: https://www.ntwind.com/software/alttabter.html
@@ -1118,6 +1147,18 @@
           logo: 
           url: http://www.huoying666.com/
           description: 动态壁纸，全平台
+        - title: 火雨壁纸
+          logo: 
+          url: https://huoyu.kfsafe.cn/
+          description:  
+        - title: Lively Wallpaper
+          logo: 
+          url: https://www.rocksdanister.com/lively/
+          description:  
+        - title: 元气桌面
+          logo: 
+          url: http://yqbz.xnayw.cn/
+          description:  
         - title: FliqloScreenSaver
           logo: 
           url: https://fliqlo.com/
