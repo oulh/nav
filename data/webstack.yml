@@ -148,6 +148,12 @@
           logo: images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+    - term: 没有灵感
+      links:
+        - title: Pttrns
+          logo: images/logos/Pttrns.png
+          url: https://www.pttrns.com/
+          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
       
     - term: 网页灵感
       links:
