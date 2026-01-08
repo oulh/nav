@@ -1,0 +1,305 @@
+/* WebStack 主题样式增强
+ * 遵循现代CSS最佳实践，添加平滑过渡、动画效果和响应式设计改进
+ */
+
+/* 全局变量 */
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --background-color: #f9f9f9;
+  --text-color: #333;
+  --card-background: #fff;
+  --sidebar-background: #2c2e2f;
+  --transition-speed: 0.3s;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 暗色模式变量 */
+.black {
+  --background-color: #26282a;
+  --text-color: #ddd;
+  --card-background: #3d4044;
+  --sidebar-background: #2c2e2f;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* 全局过渡效果 */
+* {
+  transition: all var(--transition-speed) ease;
+}
+
+/* 卡片悬停效果增强 */
+.xe-card {
+  transition: all var(--transition-speed) ease;
+}
+
+.xe-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* 侧边栏链接样式增强 */
+.sidebar-menu .main-menu a {
+  transition: all var(--transition-speed) ease;
+  border-radius: var(--border-radius);
+  margin: 4px 0;
+}
+
+.sidebar-menu .main-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding-left: 15px;
+}
+
+.sidebar-menu .main-menu li.active > a {
+  background-color: rgba(52, 152, 219, 0.2);
+  border-left: 3px solid var(--primary-color);
+}
+
+/* 按钮样式增强 */
+footer.main-footer .foot-button a {
+  transition: all var(--transition-speed) ease;
+  background: rgba(52, 152, 219, 0.7);
+}
+
+footer.main-footer .foot-button a:hover {
+  background: var(--primary-color);
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* 搜索框样式增强 */
+#search-input {
+  transition: all var(--transition-speed) ease;
+  border-radius: var(--border-radius);
+  padding: 12px 25px;
+}
+
+#search-input:focus {
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+/* 响应式设计改进 */
+@media screen and (max-width: 767px) {
+  .page-container .sidebar-menu {
+    transform: translateX(-100%);
+    transition: transform var(--transition-speed) ease;
+  }
+  
+  .page-container .sidebar-menu.mobile-is-visible {
+    transform: translateX(0);
+  }
+  
+  .xe-card {
+    margin: 10px 0;
+  }
+}
+
+/* 加载动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sites-list > div {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.sites-list > div:nth-child(1) { animation-delay: 0.1s; }
+.sites-list > div:nth-child(2) { animation-delay: 0.2s; }
+.sites-list > div:nth-child(3) { animation-delay: 0.3s; }
+.sites-list > div:nth-child(4) { animation-delay: 0.4s; }
+.sites-list > div:nth-child(5) { animation-delay: 0.5s; }
+
+/* 导航栏样式增强 */
+.navbar .navbar-content {
+  background: var(--card-background);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  border-radius: 0 0 var(--border-radius) var(--border-radius);
+}
+
+/* 友情链接样式增强 */
+.friendlink a {
+  transition: all var(--transition-speed) ease;
+  padding: 4px 12px;
+  margin: 4px;
+  border-radius: 16px;
+  background: rgba(52, 152, 219, 0.1);
+  display: inline-block;
+}
+
+.friendlink a:hover {
+  background: var(--primary-color);
+  color: white;
+  transform: translateY(-2px);
+}
+
+/* 卡片网格布局优化 */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+}
+
+.xe-card {
+  padding: 0 10px;
+}
+
+/* 图片懒加载优化 */
+.img-circle {
+  transition: all var(--transition-speed) ease;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.img-circle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* 滚动条样式优化 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  transition: all var(--transition-speed) ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* 暗色模式滚动条 */
+.black ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.black ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.black ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* 标题样式增强 */
+.text-gray {
+  transition: all var(--transition-speed) ease;
+  padding: 10px 0;
+  border-bottom: 2px solid rgba(52, 152, 219, 0.2);
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.text-gray:hover {
+  color: var(--primary-color);
+  border-bottom-color: var(--primary-color);
+}
+
+/* 卡片内容样式优化 */
+.xe-comment {
+  transition: all var(--transition-speed) ease;
+}
+
+.xe-card:hover .xe-comment {
+  transform: translateY(-8px);
+}
+
+/* 响应式字体大小 */
+@media screen and (max-width: 767px) {
+  .xe-comment .xe-user-name {
+    font-size: 14px;
+  }
+  
+  .xe-comment p {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .xe-comment .xe-user-name {
+    font-size: 16px;
+  }
+  
+  .xe-comment p {
+    font-size: 14px;
+  }
+}
+
+/* 暗色模式增强 */
+.black .xe-card:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+}
+
+.black .text-gray:hover {
+  color: #3498db;
+}
+
+.black .friendlink a {
+  background: rgba(52, 152, 219, 0.2);
+}
+
+.black .friendlink a:hover {
+  background: #3498db;
+}
+
+/* 打印样式优化 */
+@media print {
+  .sidebar-menu,
+  .user-info-navbar,
+  .main-footer {
+    display: none !important;
+  }
+  
+  .main-content {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .xe-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
+
+/* 无障碍访问优化 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  :root {
+    --primary-color: #0066cc;
+    --secondary-color: #009933;
+    --text-color: #000000;
+    --background-color: #ffffff;
+  }
+  
+  .black {
+    --primary-color: #66b3ff;
+    --secondary-color: #66ff99;
+    --text-color: #ffffff;
+    --background-color: #000000;
+  }
+}
